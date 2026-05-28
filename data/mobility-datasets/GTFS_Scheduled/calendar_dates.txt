@@ -1,0 +1,18 @@
+service_id,date,exception_type
+Domingo y Festivos Invierno,20260524,1
+Domingo y Festivos Invierno,20260531,1
+Laborable Invierno,20260518,1
+Laborable Invierno,20260519,1
+Laborable Invierno,20260521,1
+Laborable Invierno,20260522,1
+Laborable Invierno,20260525,1
+Laborable Invierno,20260526,1
+Laborable Invierno,20260528,1
+Laborable Invierno,20260529,1
+Laborable Invierno,20260601,1
+Laborable Invierno,20260602,1
+Laborable Invierno miercoles,20260520,1
+Laborable Invierno miercoles,20260527,1
+Sabado Invierno,20260523,1
+Sabado Invierno,20260530,1
+UNDEFINED_2026-05-18,20260518,1

@@ -1,0 +1,8 @@
+attribution_id,route_id,organization_name,is_producer,is_operator,is_authority,attribution_url,attribution_email,attribution_phone
+2,2,FUENLABRADA EMT,1,1,0,https://emtf.es/,emtf@emtf.es,(+34) 916 975 212
+3,13,FUENLABRADA EMT,1,1,0,https://emtf.es/,emtf@emtf.es,(+34) 916 975 212
+4,3,FUENLABRADA EMT,1,1,0,https://emtf.es/,emtf@emtf.es,(+34) 916 975 212
+5,4,FUENLABRADA EMT,1,1,0,https://emtf.es/,emtf@emtf.es,(+34) 916 975 212
+6,5,FUENLABRADA EMT,1,1,0,https://emtf.es/,emtf@emtf.es,(+34) 916 975 212
+7,6,FUENLABRADA EMT,1,1,0,https://emtf.es/,emtf@emtf.es,(+34) 916 975 212
+1,1,FUENLABRADA EMT,1,1,0,https://emtf.es/,emtf@emtf.es,(+34) 916 975 212

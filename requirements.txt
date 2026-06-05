@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+transformers
+torch
+shapely
+joblib
+lightgbm
+pydantic
+gtfs-realtime-bindings
+gym
+networkx
+dgl
+accelerate
+catboost

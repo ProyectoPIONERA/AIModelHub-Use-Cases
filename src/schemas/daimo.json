@@ -1,0 +1,44 @@
+{
+  "@id": "model-flares-5w1h-metric-evaluator",
+  "properties": {
+    "name": "FLARES 5W1H Metric Evaluator",
+    "version": "1.0.0",
+    "shortDescription": "FLARES metric model",
+    "description": "Metric model that receives input and label rows and returns benchmark metrics.",
+    "assetType": "model",
+    "contenttype": "application/json",
+    "format": "json",
+    "keyword": "model,metric,benchmark,flares,5w1h",
+    "assetData": {
+      "daimo:asset_type": "model",
+      "daimo:task": "nlp",
+      "daimo:subtask": "span extraction",
+      "daimo:framework": "FastAPI",
+      "daimo:request_shape": "batch",
+      "daimo:benchmark_model_type": "metric",
+      "daimo:input_schema": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "input": {
+              "type": "object"
+            },
+            "label": {
+              "type": "string"
+            }
+          },
+          "required": ["input", "label"]
+        }
+      }
+    }
+  },
+  "dataAddress": {
+    "type": "HttpData",
+    "name": "FLARES 5W1H Metric Evaluator",
+    "baseUrl": "http://MODEL-SERVER:PORT",
+    "path": "/flares/metrics",
+    "method": "POST"
+  }
+}
+

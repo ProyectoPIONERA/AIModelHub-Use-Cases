@@ -1,0 +1,1582 @@
+route_id,trip_id,service_id,trip_short_name,trip_headsign,direction_id,shape_id
+1,1_0_20260518T085501_61325c70,UNDEFINED_2026-05-18,1_0_20260518T085501_61325c70,MIRAFLORES,0,ro-10d2bd23
+1,1_0_20260518T104558_70cdae27,UNDEFINED_2026-05-18,1_0_20260518T104558_70cdae27,MIRAFLORES,0,ro-10d2bd23
+1,1_0_20260518T114926_996d9eac,UNDEFINED_2026-05-18,1_0_20260518T114926_996d9eac,MIRAFLORES,0,ro-10d2bd23
+1,1_0_20260518T121936_88bd1c0b,UNDEFINED_2026-05-18,1_0_20260518T121936_88bd1c0b,MIRAFLORES,0,ro-10d2bd23
+1,1_0_20260518T123029_da97ce77,UNDEFINED_2026-05-18,1_0_20260518T123029_da97ce77,MIRAFLORES,0,ro-10d2bd23
+1,1_0_20260518T163912_a5e80de8,UNDEFINED_2026-05-18,1_0_20260518T163912_a5e80de8,MIRAFLORES,0,ro-10d2bd23
+1,1_0_20260518T173417_02f9aeb8,UNDEFINED_2026-05-18,1_0_20260518T173417_02f9aeb8,MIRAFLORES,0,ro-10d2bd23
+1,1_1_20260518T081757_8d55109d,UNDEFINED_2026-05-18,1_1_20260518T081757_8d55109d,FERIAL,1,ro-75d1111b
+1,1_1_20260518T110912_661000fd,UNDEFINED_2026-05-18,1_1_20260518T110912_661000fd,FERIAL,1,ro-75d1111b
+1,1_1_20260518T111204_450e7f67,UNDEFINED_2026-05-18,1_1_20260518T111204_450e7f67,FERIAL,1,ro-75d1111b
+1,1_1_20260518T114955_0ec49f7a,UNDEFINED_2026-05-18,1_1_20260518T114955_0ec49f7a,FERIAL,1,ro-75d1111b
+1,1_1_20260518T123725_97790ecd,UNDEFINED_2026-05-18,1_1_20260518T123725_97790ecd,FERIAL,1,ro-75d1111b
+1,1_1_20260518T173739_2afff766,UNDEFINED_2026-05-18,1_1_20260518T173739_2afff766,FERIAL,1,ro-75d1111b
+2,2_3_20260518T123114_da3f1ba2,UNDEFINED_2026-05-18,2_3_20260518T123114_da3f1ba2,CIRCULAR VERDE,0,ro-47d7f5da
+2,2_3_20260518T172004_998675a1,UNDEFINED_2026-05-18,2_3_20260518T172004_998675a1,CIRCULAR VERDE,0,ro-47d7f5da
+4,4_0_20260518T040015_c517d1de,UNDEFINED_2026-05-18,4_0_20260518T040015_c517d1de,LORANCA,0,ro-bf0777c2
+4,4_0_20260518T051930_a1c71ac8,UNDEFINED_2026-05-18,4_0_20260518T051930_a1c71ac8,LORANCA,0,ro-bf0777c2
+4,4_0_20260518T114445_443a3646,UNDEFINED_2026-05-18,4_0_20260518T114445_443a3646,LORANCA,0,ro-bf0777c2
+4,4_0_20260518T120849_537157c7,UNDEFINED_2026-05-18,4_0_20260518T120849_537157c7,LORANCA,0,ro-bf0777c2
+4,4_1_20260518T043113_70ba6c3f,UNDEFINED_2026-05-18,4_1_20260518T043113_70ba6c3f,LA FUENTE,1,ro-82768de2
+4,4_1_20260518T114841_66355a34,UNDEFINED_2026-05-18,4_1_20260518T114841_66355a34,LA FUENTE,1,ro-82768de2
+4,4_1_20260518T122438_006548e8,UNDEFINED_2026-05-18,4_1_20260518T122438_006548e8,LA FUENTE,1,ro-82768de2
+6,6_1_20260518T132745_1873a0c9,UNDEFINED_2026-05-18,6_1_20260518T132745_1873a0c9,RENFE CENTRAL,1,ro-9caff0cc
+6,6_1_20260518T133622_d6f16393,UNDEFINED_2026-05-18,6_1_20260518T133622_d6f16393,RENFE CENTRAL,1,ro-9caff0cc
+13,L13_1_05:45_LI,Laborable Invierno,L13_1_05:45_LI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_05:45_LxI,Laborable Invierno miercoles,L13_1_05:45_LxI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_05:55_LI,Laborable Invierno,L13_1_05:55_LI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_05:55_LxI,Laborable Invierno miercoles,L13_1_05:55_LxI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_06:05_LI,Laborable Invierno,L13_1_06:05_LI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_06:05_LxI,Laborable Invierno miercoles,L13_1_06:05_LxI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_06:15_LI,Laborable Invierno,L13_1_06:15_LI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_06:15_LxI,Laborable Invierno miercoles,L13_1_06:15_LxI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_06:25_LI,Laborable Invierno,L13_1_06:25_LI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_06:25_LxI,Laborable Invierno miercoles,L13_1_06:25_LxI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_06:35_LI,Laborable Invierno,L13_1_06:35_LI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_06:35_LxI,Laborable Invierno miercoles,L13_1_06:35_LxI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_06:45_LI,Laborable Invierno,L13_1_06:45_LI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_06:45_LxI,Laborable Invierno miercoles,L13_1_06:45_LxI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_06:55_LI,Laborable Invierno,L13_1_06:55_LI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_06:55_LxI,Laborable Invierno miercoles,L13_1_06:55_LxI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_07:05_LI,Laborable Invierno,L13_1_07:05_LI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_07:05_LxI,Laborable Invierno miercoles,L13_1_07:05_LxI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_07:15_LI,Laborable Invierno,L13_1_07:15_LI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_07:15_LxI,Laborable Invierno miercoles,L13_1_07:15_LxI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_07:25_LI,Laborable Invierno,L13_1_07:25_LI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_07:25_LxI,Laborable Invierno miercoles,L13_1_07:25_LxI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_07:35_LI,Laborable Invierno,L13_1_07:35_LI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_07:35_LxI,Laborable Invierno miercoles,L13_1_07:35_LxI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_07:45_LI,Laborable Invierno,L13_1_07:45_LI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_07:45_LxI,Laborable Invierno miercoles,L13_1_07:45_LxI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_07:55_LI,Laborable Invierno,L13_1_07:55_LI,DIRECTO TREN,0,ro-d9588842
+13,L13_1_07:55_LxI,Laborable Invierno miercoles,L13_1_07:55_LxI,DIRECTO TREN,0,ro-d9588842
+1,L1_1_05:55_LI,Laborable Invierno,L1_1_05:55_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_05:55_LxI,Laborable Invierno miercoles,L1_1_05:55_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_06:11_LI,Laborable Invierno,L1_1_06:11_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_06:11_LxI,Laborable Invierno miercoles,L1_1_06:11_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_06:27_LI,Laborable Invierno,L1_1_06:27_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_06:27_LxI,Laborable Invierno miercoles,L1_1_06:27_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_06:43_LI,Laborable Invierno,L1_1_06:43_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_06:43_LxI,Laborable Invierno miercoles,L1_1_06:43_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_06:50_DFI,Domingo y Festivos Invierno,L1_1_06:50_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_06:50_SI,Sabado Invierno,L1_1_06:50_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_06:59_LI,Laborable Invierno,L1_1_06:59_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_06:59_LxI,Laborable Invierno miercoles,L1_1_06:59_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_07:08_DFI,Domingo y Festivos Invierno,L1_1_07:08_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_07:08_SI,Sabado Invierno,L1_1_07:08_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_07:15_LI,Laborable Invierno,L1_1_07:15_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_07:15_LxI,Laborable Invierno miercoles,L1_1_07:15_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_07:26_DFI,Domingo y Festivos Invierno,L1_1_07:26_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_07:26_SI,Sabado Invierno,L1_1_07:26_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_07:31_LI,Laborable Invierno,L1_1_07:31_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_07:31_LxI,Laborable Invierno miercoles,L1_1_07:31_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_07:44_DFI,Domingo y Festivos Invierno,L1_1_07:44_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_07:44_SI,Sabado Invierno,L1_1_07:44_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_07:47_LI,Laborable Invierno,L1_1_07:47_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_07:47_LxI,Laborable Invierno miercoles,L1_1_07:47_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_08:02_DFI,Domingo y Festivos Invierno,L1_1_08:02_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_08:02_SI,Sabado Invierno,L1_1_08:02_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_08:03_LI,Laborable Invierno,L1_1_08:03_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_08:03_LxI,Laborable Invierno miercoles,L1_1_08:03_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_08:19_LI,Laborable Invierno,L1_1_08:19_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_08:19_LxI,Laborable Invierno miercoles,L1_1_08:19_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_08:20_DFI,Domingo y Festivos Invierno,L1_1_08:20_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_08:20_SI,Sabado Invierno,L1_1_08:20_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_08:35_LI,Laborable Invierno,L1_1_08:35_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_08:35_LxI,Laborable Invierno miercoles,L1_1_08:35_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_08:38_DFI,Domingo y Festivos Invierno,L1_1_08:38_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_08:38_SI,Sabado Invierno,L1_1_08:38_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_08:51_LI,Laborable Invierno,L1_1_08:51_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_08:51_LxI,Laborable Invierno miercoles,L1_1_08:51_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_08:56_DFI,Domingo y Festivos Invierno,L1_1_08:56_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_08:56_SI,Sabado Invierno,L1_1_08:56_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_09:07_LI,Laborable Invierno,L1_1_09:07_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_09:07_LxI,Laborable Invierno miercoles,L1_1_09:07_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_09:14_DFI,Domingo y Festivos Invierno,L1_1_09:14_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_09:14_SI,Sabado Invierno,L1_1_09:14_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_09:23_LI,Laborable Invierno,L1_1_09:23_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_09:23_LxI,Laborable Invierno miercoles,L1_1_09:23_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_09:32_DFI,Domingo y Festivos Invierno,L1_1_09:32_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_09:32_SI,Sabado Invierno,L1_1_09:32_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_09:39_LI,Laborable Invierno,L1_1_09:39_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_09:39_LxI,Laborable Invierno miercoles,L1_1_09:39_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_09:50_DFI,Domingo y Festivos Invierno,L1_1_09:50_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_09:50_SI,Sabado Invierno,L1_1_09:50_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_09:55_LI,Laborable Invierno,L1_1_09:55_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_09:55_LxI,Laborable Invierno miercoles,L1_1_09:55_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_10:08_DFI,Domingo y Festivos Invierno,L1_1_10:08_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_10:08_SI,Sabado Invierno,L1_1_10:08_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_10:11_LI,Laborable Invierno,L1_1_10:11_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_10:11_LxI,Laborable Invierno miercoles,L1_1_10:11_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_10:26_DFI,Domingo y Festivos Invierno,L1_1_10:26_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_10:26_SI,Sabado Invierno,L1_1_10:26_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_10:27_LI,Laborable Invierno,L1_1_10:27_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_10:27_LxI,Laborable Invierno miercoles,L1_1_10:27_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_10:43_LI,Laborable Invierno,L1_1_10:43_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_10:43_LxI,Laborable Invierno miercoles,L1_1_10:43_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_10:44_DFI,Domingo y Festivos Invierno,L1_1_10:44_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_10:44_SI,Sabado Invierno,L1_1_10:44_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_10:59_LI,Laborable Invierno,L1_1_10:59_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_10:59_LxI,Laborable Invierno miercoles,L1_1_10:59_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_11:02_DFI,Domingo y Festivos Invierno,L1_1_11:02_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_11:02_SI,Sabado Invierno,L1_1_11:02_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_11:15_LI,Laborable Invierno,L1_1_11:15_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_11:15_LxI,Laborable Invierno miercoles,L1_1_11:15_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_11:20_DFI,Domingo y Festivos Invierno,L1_1_11:20_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_11:20_SI,Sabado Invierno,L1_1_11:20_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_11:31_LI,Laborable Invierno,L1_1_11:31_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_11:31_LxI,Laborable Invierno miercoles,L1_1_11:31_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_11:38_DFI,Domingo y Festivos Invierno,L1_1_11:38_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_11:38_SI,Sabado Invierno,L1_1_11:38_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_11:47_LI,Laborable Invierno,L1_1_11:47_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_11:47_LxI,Laborable Invierno miercoles,L1_1_11:47_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_11:56_DFI,Domingo y Festivos Invierno,L1_1_11:56_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_11:56_SI,Sabado Invierno,L1_1_11:56_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_12:03_LI,Laborable Invierno,L1_1_12:03_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_12:03_LxI,Laborable Invierno miercoles,L1_1_12:03_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_12:14_DFI,Domingo y Festivos Invierno,L1_1_12:14_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_12:14_SI,Sabado Invierno,L1_1_12:14_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_12:19_LI,Laborable Invierno,L1_1_12:19_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_12:19_LxI,Laborable Invierno miercoles,L1_1_12:19_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_12:32_DFI,Domingo y Festivos Invierno,L1_1_12:32_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_12:32_SI,Sabado Invierno,L1_1_12:32_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_12:35_LI,Laborable Invierno,L1_1_12:35_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_12:35_LxI,Laborable Invierno miercoles,L1_1_12:35_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_12:50_DFI,Domingo y Festivos Invierno,L1_1_12:50_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_12:50_SI,Sabado Invierno,L1_1_12:50_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_12:51_LI,Laborable Invierno,L1_1_12:51_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_12:51_LxI,Laborable Invierno miercoles,L1_1_12:51_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_13:07_LI,Laborable Invierno,L1_1_13:07_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_13:07_LxI,Laborable Invierno miercoles,L1_1_13:07_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_13:08_DFI,Domingo y Festivos Invierno,L1_1_13:08_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_13:08_SI,Sabado Invierno,L1_1_13:08_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_13:23_LI,Laborable Invierno,L1_1_13:23_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_13:23_LxI,Laborable Invierno miercoles,L1_1_13:23_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_13:26_DFI,Domingo y Festivos Invierno,L1_1_13:26_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_13:26_SI,Sabado Invierno,L1_1_13:26_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_13:39_LI,Laborable Invierno,L1_1_13:39_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_13:39_LxI,Laborable Invierno miercoles,L1_1_13:39_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_13:44_DFI,Domingo y Festivos Invierno,L1_1_13:44_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_13:44_SI,Sabado Invierno,L1_1_13:44_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_13:55_LI,Laborable Invierno,L1_1_13:55_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_13:55_LxI,Laborable Invierno miercoles,L1_1_13:55_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_14:02_DFI,Domingo y Festivos Invierno,L1_1_14:02_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_14:02_SI,Sabado Invierno,L1_1_14:02_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_14:11_LI,Laborable Invierno,L1_1_14:11_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_14:11_LxI,Laborable Invierno miercoles,L1_1_14:11_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_14:20_DFI,Domingo y Festivos Invierno,L1_1_14:20_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_14:20_SI,Sabado Invierno,L1_1_14:20_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_14:27_LI,Laborable Invierno,L1_1_14:27_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_14:27_LxI,Laborable Invierno miercoles,L1_1_14:27_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_14:38_DFI,Domingo y Festivos Invierno,L1_1_14:38_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_14:38_SI,Sabado Invierno,L1_1_14:38_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_14:43_LI,Laborable Invierno,L1_1_14:43_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_14:43_LxI,Laborable Invierno miercoles,L1_1_14:43_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_14:56_DFI,Domingo y Festivos Invierno,L1_1_14:56_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_14:56_SI,Sabado Invierno,L1_1_14:56_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_14:59_LI,Laborable Invierno,L1_1_14:59_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_14:59_LxI,Laborable Invierno miercoles,L1_1_14:59_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_15:14_DFI,Domingo y Festivos Invierno,L1_1_15:14_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_15:14_SI,Sabado Invierno,L1_1_15:14_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_15:15_LI,Laborable Invierno,L1_1_15:15_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_15:15_LxI,Laborable Invierno miercoles,L1_1_15:15_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_15:31_LI,Laborable Invierno,L1_1_15:31_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_15:31_LxI,Laborable Invierno miercoles,L1_1_15:31_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_15:32_DFI,Domingo y Festivos Invierno,L1_1_15:32_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_15:32_SI,Sabado Invierno,L1_1_15:32_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_15:47_LI,Laborable Invierno,L1_1_15:47_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_15:47_LxI,Laborable Invierno miercoles,L1_1_15:47_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_15:50_DFI,Domingo y Festivos Invierno,L1_1_15:50_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_15:50_SI,Sabado Invierno,L1_1_15:50_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_16:03_LI,Laborable Invierno,L1_1_16:03_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_16:03_LxI,Laborable Invierno miercoles,L1_1_16:03_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_16:08_DFI,Domingo y Festivos Invierno,L1_1_16:08_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_16:08_SI,Sabado Invierno,L1_1_16:08_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_16:19_LI,Laborable Invierno,L1_1_16:19_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_16:19_LxI,Laborable Invierno miercoles,L1_1_16:19_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_16:26_DFI,Domingo y Festivos Invierno,L1_1_16:26_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_16:26_SI,Sabado Invierno,L1_1_16:26_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_16:35_LI,Laborable Invierno,L1_1_16:35_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_16:35_LxI,Laborable Invierno miercoles,L1_1_16:35_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_16:44_DFI,Domingo y Festivos Invierno,L1_1_16:44_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_16:44_SI,Sabado Invierno,L1_1_16:44_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_16:51_LI,Laborable Invierno,L1_1_16:51_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_16:51_LxI,Laborable Invierno miercoles,L1_1_16:51_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_17:02_DFI,Domingo y Festivos Invierno,L1_1_17:02_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_17:02_SI,Sabado Invierno,L1_1_17:02_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_17:07_LI,Laborable Invierno,L1_1_17:07_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_17:07_LxI,Laborable Invierno miercoles,L1_1_17:07_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_17:20_DFI,Domingo y Festivos Invierno,L1_1_17:20_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_17:20_SI,Sabado Invierno,L1_1_17:20_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_17:23_LI,Laborable Invierno,L1_1_17:23_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_17:23_LxI,Laborable Invierno miercoles,L1_1_17:23_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_17:38_DFI,Domingo y Festivos Invierno,L1_1_17:38_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_17:38_SI,Sabado Invierno,L1_1_17:38_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_17:39_LI,Laborable Invierno,L1_1_17:39_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_17:39_LxI,Laborable Invierno miercoles,L1_1_17:39_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_17:55_LI,Laborable Invierno,L1_1_17:55_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_17:55_LxI,Laborable Invierno miercoles,L1_1_17:55_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_17:56_DFI,Domingo y Festivos Invierno,L1_1_17:56_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_17:56_SI,Sabado Invierno,L1_1_17:56_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_18:11_LI,Laborable Invierno,L1_1_18:11_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_18:11_LxI,Laborable Invierno miercoles,L1_1_18:11_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_18:14_DFI,Domingo y Festivos Invierno,L1_1_18:14_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_18:14_SI,Sabado Invierno,L1_1_18:14_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_18:27_LI,Laborable Invierno,L1_1_18:27_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_18:27_LxI,Laborable Invierno miercoles,L1_1_18:27_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_18:32_DFI,Domingo y Festivos Invierno,L1_1_18:32_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_18:32_SI,Sabado Invierno,L1_1_18:32_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_18:43_LI,Laborable Invierno,L1_1_18:43_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_18:43_LxI,Laborable Invierno miercoles,L1_1_18:43_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_18:50_DFI,Domingo y Festivos Invierno,L1_1_18:50_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_18:50_SI,Sabado Invierno,L1_1_18:50_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_18:59_LI,Laborable Invierno,L1_1_18:59_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_18:59_LxI,Laborable Invierno miercoles,L1_1_18:59_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_19:08_DFI,Domingo y Festivos Invierno,L1_1_19:08_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_19:08_SI,Sabado Invierno,L1_1_19:08_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_19:15_LI,Laborable Invierno,L1_1_19:15_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_19:15_LxI,Laborable Invierno miercoles,L1_1_19:15_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_19:26_DFI,Domingo y Festivos Invierno,L1_1_19:26_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_19:26_SI,Sabado Invierno,L1_1_19:26_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_19:31_LI,Laborable Invierno,L1_1_19:31_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_19:31_LxI,Laborable Invierno miercoles,L1_1_19:31_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_19:44_DFI,Domingo y Festivos Invierno,L1_1_19:44_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_19:44_SI,Sabado Invierno,L1_1_19:44_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_19:47_LI,Laborable Invierno,L1_1_19:47_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_19:47_LxI,Laborable Invierno miercoles,L1_1_19:47_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_20:02_DFI,Domingo y Festivos Invierno,L1_1_20:02_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_20:02_SI,Sabado Invierno,L1_1_20:02_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_20:03_LI,Laborable Invierno,L1_1_20:03_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_20:03_LxI,Laborable Invierno miercoles,L1_1_20:03_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_20:19_LI,Laborable Invierno,L1_1_20:19_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_20:19_LxI,Laborable Invierno miercoles,L1_1_20:19_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_20:20_DFI,Domingo y Festivos Invierno,L1_1_20:20_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_20:20_SI,Sabado Invierno,L1_1_20:20_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_20:35_LI,Laborable Invierno,L1_1_20:35_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_20:35_LxI,Laborable Invierno miercoles,L1_1_20:35_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_20:38_DFI,Domingo y Festivos Invierno,L1_1_20:38_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_20:38_SI,Sabado Invierno,L1_1_20:38_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_20:51_LI,Laborable Invierno,L1_1_20:51_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_20:51_LxI,Laborable Invierno miercoles,L1_1_20:51_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_20:56_DFI,Domingo y Festivos Invierno,L1_1_20:56_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_20:56_SI,Sabado Invierno,L1_1_20:56_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_21:07_LI,Laborable Invierno,L1_1_21:07_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_21:07_LxI,Laborable Invierno miercoles,L1_1_21:07_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_21:14_DFI,Domingo y Festivos Invierno,L1_1_21:14_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_21:14_SI,Sabado Invierno,L1_1_21:14_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_21:23_LI,Laborable Invierno,L1_1_21:23_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_21:23_LxI,Laborable Invierno miercoles,L1_1_21:23_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_21:32_DFI,Domingo y Festivos Invierno,L1_1_21:32_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_21:32_SI,Sabado Invierno,L1_1_21:32_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_21:45_LI,Laborable Invierno,L1_1_21:45_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_21:45_LxI,Laborable Invierno miercoles,L1_1_21:45_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_22:00_DFI,Domingo y Festivos Invierno,L1_1_22:00_DFI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_22:00_SI,Sabado Invierno,L1_1_22:00_SI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_22:10_LI,Laborable Invierno,L1_1_22:10_LI,MIRAFLORES,0,ro-10d2bd23
+1,L1_1_22:10_LxI,Laborable Invierno miercoles,L1_1_22:10_LxI,MIRAFLORES,0,ro-10d2bd23
+1,L1_3_05:45_LI,Laborable Invierno,L1_3_05:45_LI,FERIAL,1,ro-75d1111b
+1,L1_3_05:45_LxI,Laborable Invierno miercoles,L1_3_05:45_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_06:05_LI,Laborable Invierno,L1_3_06:05_LI,FERIAL,1,ro-75d1111b
+1,L1_3_06:05_LxI,Laborable Invierno miercoles,L1_3_06:05_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_06:21_LI,Laborable Invierno,L1_3_06:21_LI,FERIAL,1,ro-75d1111b
+1,L1_3_06:21_LxI,Laborable Invierno miercoles,L1_3_06:21_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_06:37_LI,Laborable Invierno,L1_3_06:37_LI,FERIAL,1,ro-75d1111b
+1,L1_3_06:37_LxI,Laborable Invierno miercoles,L1_3_06:37_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_06:50_DFI,Domingo y Festivos Invierno,L1_3_06:50_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_06:50_SI,Sabado Invierno,L1_3_06:50_SI,FERIAL,1,ro-75d1111b
+1,L1_3_06:53_LI,Laborable Invierno,L1_3_06:53_LI,FERIAL,1,ro-75d1111b
+1,L1_3_06:53_LxI,Laborable Invierno miercoles,L1_3_06:53_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_07:08_DFI,Domingo y Festivos Invierno,L1_3_07:08_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_07:08_SI,Sabado Invierno,L1_3_07:08_SI,FERIAL,1,ro-75d1111b
+1,L1_3_07:09_LI,Laborable Invierno,L1_3_07:09_LI,FERIAL,1,ro-75d1111b
+1,L1_3_07:09_LxI,Laborable Invierno miercoles,L1_3_07:09_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_07:26_LI,Laborable Invierno,L1_3_07:26_LI,FERIAL,1,ro-75d1111b
+1,L1_3_07:26_LxI,Laborable Invierno miercoles,L1_3_07:26_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_07:36_DFI,Domingo y Festivos Invierno,L1_3_07:36_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_07:36_SI,Sabado Invierno,L1_3_07:36_SI,FERIAL,1,ro-75d1111b
+1,L1_3_07:42_LI,Laborable Invierno,L1_3_07:42_LI,FERIAL,1,ro-75d1111b
+1,L1_3_07:42_LxI,Laborable Invierno miercoles,L1_3_07:42_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_07:54_DFI,Domingo y Festivos Invierno,L1_3_07:54_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_07:54_SI,Sabado Invierno,L1_3_07:54_SI,FERIAL,1,ro-75d1111b
+1,L1_3_07:58_LI,Laborable Invierno,L1_3_07:58_LI,FERIAL,1,ro-75d1111b
+1,L1_3_07:58_LxI,Laborable Invierno miercoles,L1_3_07:58_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_08:12_DFI,Domingo y Festivos Invierno,L1_3_08:12_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_08:12_SI,Sabado Invierno,L1_3_08:12_SI,FERIAL,1,ro-75d1111b
+1,L1_3_08:14_LI,Laborable Invierno,L1_3_08:14_LI,FERIAL,1,ro-75d1111b
+1,L1_3_08:14_LxI,Laborable Invierno miercoles,L1_3_08:14_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_08:30_DFI,Domingo y Festivos Invierno,L1_3_08:30_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_08:30_LI,Laborable Invierno,L1_3_08:30_LI,FERIAL,1,ro-75d1111b
+1,L1_3_08:30_LxI,Laborable Invierno miercoles,L1_3_08:30_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_08:30_SI,Sabado Invierno,L1_3_08:30_SI,FERIAL,1,ro-75d1111b
+1,L1_3_08:46_LI,Laborable Invierno,L1_3_08:46_LI,FERIAL,1,ro-75d1111b
+1,L1_3_08:46_LxI,Laborable Invierno miercoles,L1_3_08:46_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_08:48_DFI,Domingo y Festivos Invierno,L1_3_08:48_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_08:48_SI,Sabado Invierno,L1_3_08:48_SI,FERIAL,1,ro-75d1111b
+1,L1_3_09:02_LI,Laborable Invierno,L1_3_09:02_LI,FERIAL,1,ro-75d1111b
+1,L1_3_09:02_LxI,Laborable Invierno miercoles,L1_3_09:02_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_09:06_DFI,Domingo y Festivos Invierno,L1_3_09:06_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_09:06_SI,Sabado Invierno,L1_3_09:06_SI,FERIAL,1,ro-75d1111b
+1,L1_3_09:18_LI,Laborable Invierno,L1_3_09:18_LI,FERIAL,1,ro-75d1111b
+1,L1_3_09:18_LxI,Laborable Invierno miercoles,L1_3_09:18_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_09:24_DFI,Domingo y Festivos Invierno,L1_3_09:24_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_09:24_SI,Sabado Invierno,L1_3_09:24_SI,FERIAL,1,ro-75d1111b
+1,L1_3_09:34_LI,Laborable Invierno,L1_3_09:34_LI,FERIAL,1,ro-75d1111b
+1,L1_3_09:34_LxI,Laborable Invierno miercoles,L1_3_09:34_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_09:42_DFI,Domingo y Festivos Invierno,L1_3_09:42_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_09:42_SI,Sabado Invierno,L1_3_09:42_SI,FERIAL,1,ro-75d1111b
+1,L1_3_09:50_LI,Laborable Invierno,L1_3_09:50_LI,FERIAL,1,ro-75d1111b
+1,L1_3_09:50_LxI,Laborable Invierno miercoles,L1_3_09:50_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_10:00_DFI,Domingo y Festivos Invierno,L1_3_10:00_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_10:00_SI,Sabado Invierno,L1_3_10:00_SI,FERIAL,1,ro-75d1111b
+1,L1_3_10:06_LI,Laborable Invierno,L1_3_10:06_LI,FERIAL,1,ro-75d1111b
+1,L1_3_10:06_LxI,Laborable Invierno miercoles,L1_3_10:06_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_10:18_DFI,Domingo y Festivos Invierno,L1_3_10:18_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_10:18_SI,Sabado Invierno,L1_3_10:18_SI,FERIAL,1,ro-75d1111b
+1,L1_3_10:22_LI,Laborable Invierno,L1_3_10:22_LI,FERIAL,1,ro-75d1111b
+1,L1_3_10:22_LxI,Laborable Invierno miercoles,L1_3_10:22_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_10:36_DFI,Domingo y Festivos Invierno,L1_3_10:36_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_10:36_SI,Sabado Invierno,L1_3_10:36_SI,FERIAL,1,ro-75d1111b
+1,L1_3_10:38_LI,Laborable Invierno,L1_3_10:38_LI,FERIAL,1,ro-75d1111b
+1,L1_3_10:38_LxI,Laborable Invierno miercoles,L1_3_10:38_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_10:54_DFI,Domingo y Festivos Invierno,L1_3_10:54_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_10:54_LI,Laborable Invierno,L1_3_10:54_LI,FERIAL,1,ro-75d1111b
+1,L1_3_10:54_LxI,Laborable Invierno miercoles,L1_3_10:54_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_10:54_SI,Sabado Invierno,L1_3_10:54_SI,FERIAL,1,ro-75d1111b
+1,L1_3_11:10_LI,Laborable Invierno,L1_3_11:10_LI,FERIAL,1,ro-75d1111b
+1,L1_3_11:10_LxI,Laborable Invierno miercoles,L1_3_11:10_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_11:12_DFI,Domingo y Festivos Invierno,L1_3_11:12_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_11:12_SI,Sabado Invierno,L1_3_11:12_SI,FERIAL,1,ro-75d1111b
+1,L1_3_11:26_LI,Laborable Invierno,L1_3_11:26_LI,FERIAL,1,ro-75d1111b
+1,L1_3_11:26_LxI,Laborable Invierno miercoles,L1_3_11:26_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_11:30_DFI,Domingo y Festivos Invierno,L1_3_11:30_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_11:30_SI,Sabado Invierno,L1_3_11:30_SI,FERIAL,1,ro-75d1111b
+1,L1_3_11:42_LI,Laborable Invierno,L1_3_11:42_LI,FERIAL,1,ro-75d1111b
+1,L1_3_11:42_LxI,Laborable Invierno miercoles,L1_3_11:42_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_11:48_DFI,Domingo y Festivos Invierno,L1_3_11:48_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_11:48_SI,Sabado Invierno,L1_3_11:48_SI,FERIAL,1,ro-75d1111b
+1,L1_3_11:58_LI,Laborable Invierno,L1_3_11:58_LI,FERIAL,1,ro-75d1111b
+1,L1_3_11:58_LxI,Laborable Invierno miercoles,L1_3_11:58_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_12:06_DFI,Domingo y Festivos Invierno,L1_3_12:06_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_12:06_SI,Sabado Invierno,L1_3_12:06_SI,FERIAL,1,ro-75d1111b
+1,L1_3_12:14_LI,Laborable Invierno,L1_3_12:14_LI,FERIAL,1,ro-75d1111b
+1,L1_3_12:14_LxI,Laborable Invierno miercoles,L1_3_12:14_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_12:24_DFI,Domingo y Festivos Invierno,L1_3_12:24_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_12:24_SI,Sabado Invierno,L1_3_12:24_SI,FERIAL,1,ro-75d1111b
+1,L1_3_12:30_LI,Laborable Invierno,L1_3_12:30_LI,FERIAL,1,ro-75d1111b
+1,L1_3_12:30_LxI,Laborable Invierno miercoles,L1_3_12:30_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_12:42_DFI,Domingo y Festivos Invierno,L1_3_12:42_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_12:42_SI,Sabado Invierno,L1_3_12:42_SI,FERIAL,1,ro-75d1111b
+1,L1_3_12:46_LI,Laborable Invierno,L1_3_12:46_LI,FERIAL,1,ro-75d1111b
+1,L1_3_12:46_LxI,Laborable Invierno miercoles,L1_3_12:46_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_13:00_DFI,Domingo y Festivos Invierno,L1_3_13:00_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_13:00_SI,Sabado Invierno,L1_3_13:00_SI,FERIAL,1,ro-75d1111b
+1,L1_3_13:02_LI,Laborable Invierno,L1_3_13:02_LI,FERIAL,1,ro-75d1111b
+1,L1_3_13:02_LxI,Laborable Invierno miercoles,L1_3_13:02_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_13:18_DFI,Domingo y Festivos Invierno,L1_3_13:18_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_13:18_LI,Laborable Invierno,L1_3_13:18_LI,FERIAL,1,ro-75d1111b
+1,L1_3_13:18_LxI,Laborable Invierno miercoles,L1_3_13:18_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_13:18_SI,Sabado Invierno,L1_3_13:18_SI,FERIAL,1,ro-75d1111b
+1,L1_3_13:34_LI,Laborable Invierno,L1_3_13:34_LI,FERIAL,1,ro-75d1111b
+1,L1_3_13:34_LxI,Laborable Invierno miercoles,L1_3_13:34_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_13:36_DFI,Domingo y Festivos Invierno,L1_3_13:36_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_13:36_SI,Sabado Invierno,L1_3_13:36_SI,FERIAL,1,ro-75d1111b
+1,L1_3_13:50_LI,Laborable Invierno,L1_3_13:50_LI,FERIAL,1,ro-75d1111b
+1,L1_3_13:50_LxI,Laborable Invierno miercoles,L1_3_13:50_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_13:54_DFI,Domingo y Festivos Invierno,L1_3_13:54_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_13:54_SI,Sabado Invierno,L1_3_13:54_SI,FERIAL,1,ro-75d1111b
+1,L1_3_14:06_LI,Laborable Invierno,L1_3_14:06_LI,FERIAL,1,ro-75d1111b
+1,L1_3_14:06_LxI,Laborable Invierno miercoles,L1_3_14:06_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_14:12_DFI,Domingo y Festivos Invierno,L1_3_14:12_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_14:12_SI,Sabado Invierno,L1_3_14:12_SI,FERIAL,1,ro-75d1111b
+1,L1_3_14:22_LI,Laborable Invierno,L1_3_14:22_LI,FERIAL,1,ro-75d1111b
+1,L1_3_14:22_LxI,Laborable Invierno miercoles,L1_3_14:22_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_14:30_DFI,Domingo y Festivos Invierno,L1_3_14:30_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_14:30_SI,Sabado Invierno,L1_3_14:30_SI,FERIAL,1,ro-75d1111b
+1,L1_3_14:38_LI,Laborable Invierno,L1_3_14:38_LI,FERIAL,1,ro-75d1111b
+1,L1_3_14:38_LxI,Laborable Invierno miercoles,L1_3_14:38_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_14:48_DFI,Domingo y Festivos Invierno,L1_3_14:48_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_14:48_SI,Sabado Invierno,L1_3_14:48_SI,FERIAL,1,ro-75d1111b
+1,L1_3_14:54_LI,Laborable Invierno,L1_3_14:54_LI,FERIAL,1,ro-75d1111b
+1,L1_3_14:54_LxI,Laborable Invierno miercoles,L1_3_14:54_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_15:06_DFI,Domingo y Festivos Invierno,L1_3_15:06_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_15:06_SI,Sabado Invierno,L1_3_15:06_SI,FERIAL,1,ro-75d1111b
+1,L1_3_15:10_LI,Laborable Invierno,L1_3_15:10_LI,FERIAL,1,ro-75d1111b
+1,L1_3_15:10_LxI,Laborable Invierno miercoles,L1_3_15:10_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_15:24_DFI,Domingo y Festivos Invierno,L1_3_15:24_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_15:24_SI,Sabado Invierno,L1_3_15:24_SI,FERIAL,1,ro-75d1111b
+1,L1_3_15:26_LI,Laborable Invierno,L1_3_15:26_LI,FERIAL,1,ro-75d1111b
+1,L1_3_15:26_LxI,Laborable Invierno miercoles,L1_3_15:26_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_15:42_DFI,Domingo y Festivos Invierno,L1_3_15:42_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_15:42_LI,Laborable Invierno,L1_3_15:42_LI,FERIAL,1,ro-75d1111b
+1,L1_3_15:42_LxI,Laborable Invierno miercoles,L1_3_15:42_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_15:42_SI,Sabado Invierno,L1_3_15:42_SI,FERIAL,1,ro-75d1111b
+1,L1_3_15:58_LI,Laborable Invierno,L1_3_15:58_LI,FERIAL,1,ro-75d1111b
+1,L1_3_15:58_LxI,Laborable Invierno miercoles,L1_3_15:58_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_16:00_DFI,Domingo y Festivos Invierno,L1_3_16:00_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_16:00_SI,Sabado Invierno,L1_3_16:00_SI,FERIAL,1,ro-75d1111b
+1,L1_3_16:14_LI,Laborable Invierno,L1_3_16:14_LI,FERIAL,1,ro-75d1111b
+1,L1_3_16:14_LxI,Laborable Invierno miercoles,L1_3_16:14_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_16:18_DFI,Domingo y Festivos Invierno,L1_3_16:18_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_16:18_SI,Sabado Invierno,L1_3_16:18_SI,FERIAL,1,ro-75d1111b
+1,L1_3_16:30_LI,Laborable Invierno,L1_3_16:30_LI,FERIAL,1,ro-75d1111b
+1,L1_3_16:30_LxI,Laborable Invierno miercoles,L1_3_16:30_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_16:36_DFI,Domingo y Festivos Invierno,L1_3_16:36_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_16:36_SI,Sabado Invierno,L1_3_16:36_SI,FERIAL,1,ro-75d1111b
+1,L1_3_16:46_LI,Laborable Invierno,L1_3_16:46_LI,FERIAL,1,ro-75d1111b
+1,L1_3_16:46_LxI,Laborable Invierno miercoles,L1_3_16:46_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_16:54_DFI,Domingo y Festivos Invierno,L1_3_16:54_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_16:54_SI,Sabado Invierno,L1_3_16:54_SI,FERIAL,1,ro-75d1111b
+1,L1_3_17:02_LI,Laborable Invierno,L1_3_17:02_LI,FERIAL,1,ro-75d1111b
+1,L1_3_17:02_LxI,Laborable Invierno miercoles,L1_3_17:02_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_17:12_DFI,Domingo y Festivos Invierno,L1_3_17:12_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_17:12_SI,Sabado Invierno,L1_3_17:12_SI,FERIAL,1,ro-75d1111b
+1,L1_3_17:18_LI,Laborable Invierno,L1_3_17:18_LI,FERIAL,1,ro-75d1111b
+1,L1_3_17:18_LxI,Laborable Invierno miercoles,L1_3_17:18_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_17:30_DFI,Domingo y Festivos Invierno,L1_3_17:30_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_17:30_SI,Sabado Invierno,L1_3_17:30_SI,FERIAL,1,ro-75d1111b
+1,L1_3_17:34_LI,Laborable Invierno,L1_3_17:34_LI,FERIAL,1,ro-75d1111b
+1,L1_3_17:34_LxI,Laborable Invierno miercoles,L1_3_17:34_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_17:48_DFI,Domingo y Festivos Invierno,L1_3_17:48_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_17:48_SI,Sabado Invierno,L1_3_17:48_SI,FERIAL,1,ro-75d1111b
+1,L1_3_17:50_LI,Laborable Invierno,L1_3_17:50_LI,FERIAL,1,ro-75d1111b
+1,L1_3_17:50_LxI,Laborable Invierno miercoles,L1_3_17:50_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_18:06_DFI,Domingo y Festivos Invierno,L1_3_18:06_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_18:06_LI,Laborable Invierno,L1_3_18:06_LI,FERIAL,1,ro-75d1111b
+1,L1_3_18:06_LxI,Laborable Invierno miercoles,L1_3_18:06_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_18:06_SI,Sabado Invierno,L1_3_18:06_SI,FERIAL,1,ro-75d1111b
+1,L1_3_18:22_LI,Laborable Invierno,L1_3_18:22_LI,FERIAL,1,ro-75d1111b
+1,L1_3_18:22_LxI,Laborable Invierno miercoles,L1_3_18:22_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_18:24_DFI,Domingo y Festivos Invierno,L1_3_18:24_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_18:24_SI,Sabado Invierno,L1_3_18:24_SI,FERIAL,1,ro-75d1111b
+1,L1_3_18:38_LI,Laborable Invierno,L1_3_18:38_LI,FERIAL,1,ro-75d1111b
+1,L1_3_18:38_LxI,Laborable Invierno miercoles,L1_3_18:38_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_18:42_DFI,Domingo y Festivos Invierno,L1_3_18:42_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_18:42_SI,Sabado Invierno,L1_3_18:42_SI,FERIAL,1,ro-75d1111b
+1,L1_3_18:54_LI,Laborable Invierno,L1_3_18:54_LI,FERIAL,1,ro-75d1111b
+1,L1_3_18:54_LxI,Laborable Invierno miercoles,L1_3_18:54_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_19:00_DFI,Domingo y Festivos Invierno,L1_3_19:00_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_19:00_SI,Sabado Invierno,L1_3_19:00_SI,FERIAL,1,ro-75d1111b
+1,L1_3_19:10_LI,Laborable Invierno,L1_3_19:10_LI,FERIAL,1,ro-75d1111b
+1,L1_3_19:10_LxI,Laborable Invierno miercoles,L1_3_19:10_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_19:18_DFI,Domingo y Festivos Invierno,L1_3_19:18_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_19:18_SI,Sabado Invierno,L1_3_19:18_SI,FERIAL,1,ro-75d1111b
+1,L1_3_19:26_LI,Laborable Invierno,L1_3_19:26_LI,FERIAL,1,ro-75d1111b
+1,L1_3_19:26_LxI,Laborable Invierno miercoles,L1_3_19:26_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_19:36_DFI,Domingo y Festivos Invierno,L1_3_19:36_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_19:36_SI,Sabado Invierno,L1_3_19:36_SI,FERIAL,1,ro-75d1111b
+1,L1_3_19:42_LI,Laborable Invierno,L1_3_19:42_LI,FERIAL,1,ro-75d1111b
+1,L1_3_19:42_LxI,Laborable Invierno miercoles,L1_3_19:42_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_19:54_DFI,Domingo y Festivos Invierno,L1_3_19:54_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_19:54_SI,Sabado Invierno,L1_3_19:54_SI,FERIAL,1,ro-75d1111b
+1,L1_3_19:58_LI,Laborable Invierno,L1_3_19:58_LI,FERIAL,1,ro-75d1111b
+1,L1_3_19:58_LxI,Laborable Invierno miercoles,L1_3_19:58_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_20:12_DFI,Domingo y Festivos Invierno,L1_3_20:12_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_20:12_SI,Sabado Invierno,L1_3_20:12_SI,FERIAL,1,ro-75d1111b
+1,L1_3_20:14_LI,Laborable Invierno,L1_3_20:14_LI,FERIAL,1,ro-75d1111b
+1,L1_3_20:14_LxI,Laborable Invierno miercoles,L1_3_20:14_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_20:30_DFI,Domingo y Festivos Invierno,L1_3_20:30_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_20:30_LI,Laborable Invierno,L1_3_20:30_LI,FERIAL,1,ro-75d1111b
+1,L1_3_20:30_LxI,Laborable Invierno miercoles,L1_3_20:30_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_20:30_SI,Sabado Invierno,L1_3_20:30_SI,FERIAL,1,ro-75d1111b
+1,L1_3_20:46_LI,Laborable Invierno,L1_3_20:46_LI,FERIAL,1,ro-75d1111b
+1,L1_3_20:46_LxI,Laborable Invierno miercoles,L1_3_20:46_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_20:48_DFI,Domingo y Festivos Invierno,L1_3_20:48_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_20:48_SI,Sabado Invierno,L1_3_20:48_SI,FERIAL,1,ro-75d1111b
+1,L1_3_21:02_LI,Laborable Invierno,L1_3_21:02_LI,FERIAL,1,ro-75d1111b
+1,L1_3_21:02_LxI,Laborable Invierno miercoles,L1_3_21:02_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_21:06_DFI,Domingo y Festivos Invierno,L1_3_21:06_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_21:06_SI,Sabado Invierno,L1_3_21:06_SI,FERIAL,1,ro-75d1111b
+1,L1_3_21:18_LI,Laborable Invierno,L1_3_21:18_LI,FERIAL,1,ro-75d1111b
+1,L1_3_21:18_LxI,Laborable Invierno miercoles,L1_3_21:18_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_21:24_DFI,Domingo y Festivos Invierno,L1_3_21:24_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_21:24_SI,Sabado Invierno,L1_3_21:24_SI,FERIAL,1,ro-75d1111b
+1,L1_3_21:34_LI,Laborable Invierno,L1_3_21:34_LI,FERIAL,1,ro-75d1111b
+1,L1_3_21:34_LxI,Laborable Invierno miercoles,L1_3_21:34_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_21:42_DFI,Domingo y Festivos Invierno,L1_3_21:42_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_21:42_SI,Sabado Invierno,L1_3_21:42_SI,FERIAL,1,ro-75d1111b
+1,L1_3_21:50_LI,Laborable Invierno,L1_3_21:50_LI,FERIAL,1,ro-75d1111b
+1,L1_3_21:50_LxI,Laborable Invierno miercoles,L1_3_21:50_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_22:00_DFI,Domingo y Festivos Invierno,L1_3_22:00_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_22:00_SI,Sabado Invierno,L1_3_22:00_SI,FERIAL,1,ro-75d1111b
+1,L1_3_22:06_LI,Laborable Invierno,L1_3_22:06_LI,FERIAL,1,ro-75d1111b
+1,L1_3_22:06_LxI,Laborable Invierno miercoles,L1_3_22:06_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_22:18_DFI,Domingo y Festivos Invierno,L1_3_22:18_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_22:18_SI,Sabado Invierno,L1_3_22:18_SI,FERIAL,1,ro-75d1111b
+1,L1_3_22:22_LI,Laborable Invierno,L1_3_22:22_LI,FERIAL,1,ro-75d1111b
+1,L1_3_22:22_LxI,Laborable Invierno miercoles,L1_3_22:22_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_22:38_LI,Laborable Invierno,L1_3_22:38_LI,FERIAL,1,ro-75d1111b
+1,L1_3_22:38_LxI,Laborable Invierno miercoles,L1_3_22:38_LxI,FERIAL,1,ro-75d1111b
+1,L1_3_22:45_DFI,Domingo y Festivos Invierno,L1_3_22:45_DFI,FERIAL,1,ro-75d1111b
+1,L1_3_22:45_SI,Sabado Invierno,L1_3_22:45_SI,FERIAL,1,ro-75d1111b
+1,L1_3_22:55_LI,Laborable Invierno,L1_3_22:55_LI,FERIAL,1,ro-75d1111b
+1,L1_3_22:55_LxI,Laborable Invierno miercoles,L1_3_22:55_LxI,FERIAL,1,ro-75d1111b
+2,L2_1_07:05_LI,Laborable Invierno,L2_1_07:05_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_07:05_LxI,Laborable Invierno miercoles,L2_1_07:05_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_07:19_LI,Laborable Invierno,L2_1_07:19_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_07:19_LxI,Laborable Invierno miercoles,L2_1_07:19_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_07:33_LI,Laborable Invierno,L2_1_07:33_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_07:33_LxI,Laborable Invierno miercoles,L2_1_07:33_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_07:47_LI,Laborable Invierno,L2_1_07:47_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_07:47_LxI,Laborable Invierno miercoles,L2_1_07:47_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_07:50_DFI,Domingo y Festivos Invierno,L2_1_07:50_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_07:50_SI,Sabado Invierno,L2_1_07:50_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_08:01_LI,Laborable Invierno,L2_1_08:01_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_08:10_DFI,Domingo y Festivos Invierno,L2_1_08:10_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_08:10_SI,Sabado Invierno,L2_1_08:10_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_08:15_LI,Laborable Invierno,L2_1_08:15_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_08:29_LI,Laborable Invierno,L2_1_08:29_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_08:30_DFI,Domingo y Festivos Invierno,L2_1_08:30_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_08:30_SI,Sabado Invierno,L2_1_08:30_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_08:43_LI,Laborable Invierno,L2_1_08:43_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_08:50_DFI,Domingo y Festivos Invierno,L2_1_08:50_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_08:50_SI,Sabado Invierno,L2_1_08:50_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_08:57_LI,Laborable Invierno,L2_1_08:57_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_09:10_DFI,Domingo y Festivos Invierno,L2_1_09:10_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_09:10_SI,Sabado Invierno,L2_1_09:10_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_09:11_LI,Laborable Invierno,L2_1_09:11_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_09:25_LI,Laborable Invierno,L2_1_09:25_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_09:30_DFI,Domingo y Festivos Invierno,L2_1_09:30_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_09:30_SI,Sabado Invierno,L2_1_09:30_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_09:39_LI,Laborable Invierno,L2_1_09:39_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_09:50_DFI,Domingo y Festivos Invierno,L2_1_09:50_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_09:50_SI,Sabado Invierno,L2_1_09:50_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_09:53_LI,Laborable Invierno,L2_1_09:53_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_10:07_LI,Laborable Invierno,L2_1_10:07_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_10:10_DFI,Domingo y Festivos Invierno,L2_1_10:10_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_10:10_SI,Sabado Invierno,L2_1_10:10_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_10:21_LI,Laborable Invierno,L2_1_10:21_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_10:30_DFI,Domingo y Festivos Invierno,L2_1_10:30_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_10:30_SI,Sabado Invierno,L2_1_10:30_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_10:35_LI,Laborable Invierno,L2_1_10:35_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_10:49_LI,Laborable Invierno,L2_1_10:49_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_10:50_DFI,Domingo y Festivos Invierno,L2_1_10:50_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_10:50_SI,Sabado Invierno,L2_1_10:50_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_11:03_LI,Laborable Invierno,L2_1_11:03_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_11:10_DFI,Domingo y Festivos Invierno,L2_1_11:10_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_11:10_SI,Sabado Invierno,L2_1_11:10_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_11:17_LI,Laborable Invierno,L2_1_11:17_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_11:30_DFI,Domingo y Festivos Invierno,L2_1_11:30_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_11:30_SI,Sabado Invierno,L2_1_11:30_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_11:31_LI,Laborable Invierno,L2_1_11:31_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_11:45_LI,Laborable Invierno,L2_1_11:45_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_11:50_DFI,Domingo y Festivos Invierno,L2_1_11:50_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_11:50_SI,Sabado Invierno,L2_1_11:50_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_11:59_LI,Laborable Invierno,L2_1_11:59_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_12:10_DFI,Domingo y Festivos Invierno,L2_1_12:10_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_12:10_SI,Sabado Invierno,L2_1_12:10_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_12:13_LI,Laborable Invierno,L2_1_12:13_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_12:27_LI,Laborable Invierno,L2_1_12:27_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_12:30_DFI,Domingo y Festivos Invierno,L2_1_12:30_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_12:30_SI,Sabado Invierno,L2_1_12:30_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_12:41_LI,Laborable Invierno,L2_1_12:41_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_12:50_DFI,Domingo y Festivos Invierno,L2_1_12:50_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_12:50_SI,Sabado Invierno,L2_1_12:50_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_12:55_LI,Laborable Invierno,L2_1_12:55_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_13:09_LI,Laborable Invierno,L2_1_13:09_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_13:10_DFI,Domingo y Festivos Invierno,L2_1_13:10_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_13:10_SI,Sabado Invierno,L2_1_13:10_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_13:23_LI,Laborable Invierno,L2_1_13:23_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_13:30_DFI,Domingo y Festivos Invierno,L2_1_13:30_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_13:30_SI,Sabado Invierno,L2_1_13:30_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_13:37_LI,Laborable Invierno,L2_1_13:37_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_13:50_DFI,Domingo y Festivos Invierno,L2_1_13:50_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_13:50_SI,Sabado Invierno,L2_1_13:50_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_13:51_LI,Laborable Invierno,L2_1_13:51_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_14:05_LI,Laborable Invierno,L2_1_14:05_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_14:10_DFI,Domingo y Festivos Invierno,L2_1_14:10_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_14:10_SI,Sabado Invierno,L2_1_14:10_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_14:19_LI,Laborable Invierno,L2_1_14:19_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_14:30_DFI,Domingo y Festivos Invierno,L2_1_14:30_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_14:30_SI,Sabado Invierno,L2_1_14:30_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_14:33_LI,Laborable Invierno,L2_1_14:33_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_14:47_LI,Laborable Invierno,L2_1_14:47_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_14:50_DFI,Domingo y Festivos Invierno,L2_1_14:50_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_14:50_SI,Sabado Invierno,L2_1_14:50_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_15:01_LI,Laborable Invierno,L2_1_15:01_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_15:10_DFI,Domingo y Festivos Invierno,L2_1_15:10_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_15:10_SI,Sabado Invierno,L2_1_15:10_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_15:15_LI,Laborable Invierno,L2_1_15:15_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_15:29_LI,Laborable Invierno,L2_1_15:29_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_15:30_DFI,Domingo y Festivos Invierno,L2_1_15:30_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_15:30_SI,Sabado Invierno,L2_1_15:30_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_15:43_LI,Laborable Invierno,L2_1_15:43_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_15:50_DFI,Domingo y Festivos Invierno,L2_1_15:50_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_15:50_SI,Sabado Invierno,L2_1_15:50_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_15:57_LI,Laborable Invierno,L2_1_15:57_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_16:10_DFI,Domingo y Festivos Invierno,L2_1_16:10_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_16:10_SI,Sabado Invierno,L2_1_16:10_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_16:11_LI,Laborable Invierno,L2_1_16:11_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_16:25_LI,Laborable Invierno,L2_1_16:25_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_16:30_DFI,Domingo y Festivos Invierno,L2_1_16:30_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_16:30_SI,Sabado Invierno,L2_1_16:30_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_16:39_LI,Laborable Invierno,L2_1_16:39_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_16:50_DFI,Domingo y Festivos Invierno,L2_1_16:50_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_16:50_SI,Sabado Invierno,L2_1_16:50_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_16:53_LI,Laborable Invierno,L2_1_16:53_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_17:07_LI,Laborable Invierno,L2_1_17:07_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_17:07_LxI,Laborable Invierno miercoles,L2_1_17:07_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_17:10_DFI,Domingo y Festivos Invierno,L2_1_17:10_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_17:10_SI,Sabado Invierno,L2_1_17:10_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_17:21_LI,Laborable Invierno,L2_1_17:21_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_17:21_LxI,Laborable Invierno miercoles,L2_1_17:21_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_17:30_DFI,Domingo y Festivos Invierno,L2_1_17:30_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_17:30_SI,Sabado Invierno,L2_1_17:30_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_17:35_LI,Laborable Invierno,L2_1_17:35_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_17:35_LxI,Laborable Invierno miercoles,L2_1_17:35_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_17:49_LI,Laborable Invierno,L2_1_17:49_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_17:49_LxI,Laborable Invierno miercoles,L2_1_17:49_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_17:50_DFI,Domingo y Festivos Invierno,L2_1_17:50_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_17:50_SI,Sabado Invierno,L2_1_17:50_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_18:03_LI,Laborable Invierno,L2_1_18:03_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_18:03_LxI,Laborable Invierno miercoles,L2_1_18:03_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_18:10_DFI,Domingo y Festivos Invierno,L2_1_18:10_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_18:10_SI,Sabado Invierno,L2_1_18:10_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_18:17_LI,Laborable Invierno,L2_1_18:17_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_18:17_LxI,Laborable Invierno miercoles,L2_1_18:17_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_18:30_DFI,Domingo y Festivos Invierno,L2_1_18:30_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_18:30_SI,Sabado Invierno,L2_1_18:30_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_18:31_LI,Laborable Invierno,L2_1_18:31_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_18:31_LxI,Laborable Invierno miercoles,L2_1_18:31_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_18:45_LI,Laborable Invierno,L2_1_18:45_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_18:45_LxI,Laborable Invierno miercoles,L2_1_18:45_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_18:50_DFI,Domingo y Festivos Invierno,L2_1_18:50_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_18:50_SI,Sabado Invierno,L2_1_18:50_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_18:59_LI,Laborable Invierno,L2_1_18:59_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_18:59_LxI,Laborable Invierno miercoles,L2_1_18:59_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_19:10_DFI,Domingo y Festivos Invierno,L2_1_19:10_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_19:10_SI,Sabado Invierno,L2_1_19:10_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_19:13_LI,Laborable Invierno,L2_1_19:13_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_19:13_LxI,Laborable Invierno miercoles,L2_1_19:13_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_19:27_LI,Laborable Invierno,L2_1_19:27_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_19:27_LxI,Laborable Invierno miercoles,L2_1_19:27_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_19:30_DFI,Domingo y Festivos Invierno,L2_1_19:30_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_19:30_SI,Sabado Invierno,L2_1_19:30_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_19:41_LI,Laborable Invierno,L2_1_19:41_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_19:41_LxI,Laborable Invierno miercoles,L2_1_19:41_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_19:50_DFI,Domingo y Festivos Invierno,L2_1_19:50_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_19:50_SI,Sabado Invierno,L2_1_19:50_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_19:55_LI,Laborable Invierno,L2_1_19:55_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_19:55_LxI,Laborable Invierno miercoles,L2_1_19:55_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_20:10_DFI,Domingo y Festivos Invierno,L2_1_20:10_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_20:10_SI,Sabado Invierno,L2_1_20:10_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_20:15_LI,Laborable Invierno,L2_1_20:15_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_20:15_LxI,Laborable Invierno miercoles,L2_1_20:15_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_20:30_DFI,Domingo y Festivos Invierno,L2_1_20:30_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_20:30_LI,Laborable Invierno,L2_1_20:30_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_20:30_LxI,Laborable Invierno miercoles,L2_1_20:30_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_20:30_SI,Sabado Invierno,L2_1_20:30_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_20:45_LI,Laborable Invierno,L2_1_20:45_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_20:45_LxI,Laborable Invierno miercoles,L2_1_20:45_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_20:50_DFI,Domingo y Festivos Invierno,L2_1_20:50_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_20:50_SI,Sabado Invierno,L2_1_20:50_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_21:00_LI,Laborable Invierno,L2_1_21:00_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_21:00_LxI,Laborable Invierno miercoles,L2_1_21:00_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_21:10_DFI,Domingo y Festivos Invierno,L2_1_21:10_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_21:10_SI,Sabado Invierno,L2_1_21:10_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_21:30_DFI,Domingo y Festivos Invierno,L2_1_21:30_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_21:30_LI,Laborable Invierno,L2_1_21:30_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_21:30_LxI,Laborable Invierno miercoles,L2_1_21:30_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_21:30_SI,Sabado Invierno,L2_1_21:30_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_22:00_DFI,Domingo y Festivos Invierno,L2_1_22:00_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_22:00_LI,Laborable Invierno,L2_1_22:00_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_22:00_LxI,Laborable Invierno miercoles,L2_1_22:00_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_22:00_SI,Sabado Invierno,L2_1_22:00_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_22:30_DFI,Domingo y Festivos Invierno,L2_1_22:30_DFI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_22:30_LI,Laborable Invierno,L2_1_22:30_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_22:30_LxI,Laborable Invierno miercoles,L2_1_22:30_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_22:30_SI,Sabado Invierno,L2_1_22:30_SI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_23:00_LI,Laborable Invierno,L2_1_23:00_LI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_1_23:00_LxI,Laborable Invierno miercoles,L2_1_23:00_LxI,CIRCULAR VERDE,0,ro-47d7f5da
+2,L2_NAR_06:40_LI,Laborable Invierno,L2_NAR_06:40_LI,DT SERNA - NARANJO,0,ro-1f3afea0
+2,L2_NAR_06:40_LxI,Laborable Invierno miercoles,L2_NAR_06:40_LxI,DT SERNA - NARANJO,0,ro-1f3afea0
+2,L2_NAR_07:00_LI,Laborable Invierno,L2_NAR_07:00_LI,DT LA SERNA,0,ro-3af42ee9
+2,L2_NAR_07:00_LxI,Laborable Invierno miercoles,L2_NAR_07:00_LxI,DT LA SERNA,0,ro-3af42ee9
+2,L2_NAR_07:10_LI,Laborable Invierno,L2_NAR_07:10_LI,DT SERNA - NARANJO,0,ro-1f3afea0
+2,L2_NAR_07:10_LxI,Laborable Invierno miercoles,L2_NAR_07:10_LxI,DT SERNA - NARANJO,0,ro-1f3afea0
+2,L2_NAR_07:20_LI,Laborable Invierno,L2_NAR_07:20_LI,DT SERNA - NARANJO,0,ro-1f3afea0
+2,L2_NAR_07:20_LxI,Laborable Invierno miercoles,L2_NAR_07:20_LxI,DT SERNA - NARANJO,0,ro-1f3afea0
+2,L2_RSER_16:23_LI,Laborable Invierno,L2_RSER_16:23_LI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_16:23_LxI,Laborable Invierno miercoles,L2_RSER_16:23_LxI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_16:53_LI,Laborable Invierno,L2_RSER_16:53_LI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_16:53_LxI,Laborable Invierno miercoles,L2_RSER_16:53_LxI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_17:08_LI,Laborable Invierno,L2_RSER_17:08_LI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_17:08_LxI,Laborable Invierno miercoles,L2_RSER_17:08_LxI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_17:23_LI,Laborable Invierno,L2_RSER_17:23_LI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_17:23_LxI,Laborable Invierno miercoles,L2_RSER_17:23_LxI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_17:38_LI,Laborable Invierno,L2_RSER_17:38_LI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_17:38_LxI,Laborable Invierno miercoles,L2_RSER_17:38_LxI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_17:53_LI,Laborable Invierno,L2_RSER_17:53_LI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_17:53_LxI,Laborable Invierno miercoles,L2_RSER_17:53_LxI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_18:08_LI,Laborable Invierno,L2_RSER_18:08_LI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_18:08_LxI,Laborable Invierno miercoles,L2_RSER_18:08_LxI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_18:23_LI,Laborable Invierno,L2_RSER_18:23_LI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_18:23_LxI,Laborable Invierno miercoles,L2_RSER_18:23_LxI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_18:38_LI,Laborable Invierno,L2_RSER_18:38_LI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_18:38_LxI,Laborable Invierno miercoles,L2_RSER_18:38_LxI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_18:53_LI,Laborable Invierno,L2_RSER_18:53_LI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_18:53_LxI,Laborable Invierno miercoles,L2_RSER_18:53_LxI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_19:08_LI,Laborable Invierno,L2_RSER_19:08_LI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_19:08_LxI,Laborable Invierno miercoles,L2_RSER_19:08_LxI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_19:23_LI,Laborable Invierno,L2_RSER_19:23_LI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_19:23_LxI,Laborable Invierno miercoles,L2_RSER_19:23_LxI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_19:38_LI,Laborable Invierno,L2_RSER_19:38_LI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_19:38_LxI,Laborable Invierno miercoles,L2_RSER_19:38_LxI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_19:53_LI,Laborable Invierno,L2_RSER_19:53_LI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_19:53_LxI,Laborable Invierno miercoles,L2_RSER_19:53_LxI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_20:08_LI,Laborable Invierno,L2_RSER_20:08_LI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_20:08_LxI,Laborable Invierno miercoles,L2_RSER_20:08_LxI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_20:23_LI,Laborable Invierno,L2_RSER_20:23_LI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_20:23_LxI,Laborable Invierno miercoles,L2_RSER_20:23_LxI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_20:38_LI,Laborable Invierno,L2_RSER_20:38_LI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_20:38_LxI,Laborable Invierno miercoles,L2_RSER_20:38_LxI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_20:53_LI,Laborable Invierno,L2_RSER_20:53_LI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_20:53_LxI,Laborable Invierno miercoles,L2_RSER_20:53_LxI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_21:08_LI,Laborable Invierno,L2_RSER_21:08_LI,REF NARANJO,0,ro-d3763257
+2,L2_RSER_21:08_LxI,Laborable Invierno miercoles,L2_RSER_21:08_LxI,REF NARANJO,0,ro-d3763257
+2,L2_SER_06:20_LI,Laborable Invierno,L2_SER_06:20_LI,DT LA SERNA,0,ro-3af42ee9
+2,L2_SER_06:20_LxI,Laborable Invierno miercoles,L2_SER_06:20_LxI,DT LA SERNA,0,ro-3af42ee9
+2,L2_SER_06:30_LI,Laborable Invierno,L2_SER_06:30_LI,DT LA SERNA,0,ro-3af42ee9
+2,L2_SER_06:30_LxI,Laborable Invierno miercoles,L2_SER_06:30_LxI,DT LA SERNA,0,ro-3af42ee9
+2,L2_SER_06:50_LI,Laborable Invierno,L2_SER_06:50_LI,DT LA SERNA,0,ro-3af42ee9
+2,L2_SER_06:50_LxI,Laborable Invierno miercoles,L2_SER_06:50_LxI,DT LA SERNA,0,ro-3af42ee9
+2,L2_X_08:01_LxI,Laborable Invierno miercoles,L2_X_08:01_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_08:15_LxI,Laborable Invierno miercoles,L2_X_08:15_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_08:29_LxI,Laborable Invierno miercoles,L2_X_08:29_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_08:43_LxI,Laborable Invierno miercoles,L2_X_08:43_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_08:57_LxI,Laborable Invierno miercoles,L2_X_08:57_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_09:11_LxI,Laborable Invierno miercoles,L2_X_09:11_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_09:25_LxI,Laborable Invierno miercoles,L2_X_09:25_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_09:39_LxI,Laborable Invierno miercoles,L2_X_09:39_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_09:53_LxI,Laborable Invierno miercoles,L2_X_09:53_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_10:07_LxI,Laborable Invierno miercoles,L2_X_10:07_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_10:21_LxI,Laborable Invierno miercoles,L2_X_10:21_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_10:35_LxI,Laborable Invierno miercoles,L2_X_10:35_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_10:49_LxI,Laborable Invierno miercoles,L2_X_10:49_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_11:03_LxI,Laborable Invierno miercoles,L2_X_11:03_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_11:17_LxI,Laborable Invierno miercoles,L2_X_11:17_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_11:31_LxI,Laborable Invierno miercoles,L2_X_11:31_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_11:45_LxI,Laborable Invierno miercoles,L2_X_11:45_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_11:59_LxI,Laborable Invierno miercoles,L2_X_11:59_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_12:13_LxI,Laborable Invierno miercoles,L2_X_12:13_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_12:27_LxI,Laborable Invierno miercoles,L2_X_12:27_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_12:41_LxI,Laborable Invierno miercoles,L2_X_12:41_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_12:55_LxI,Laborable Invierno miercoles,L2_X_12:55_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_13:09_LxI,Laborable Invierno miercoles,L2_X_13:09_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_13:23_LxI,Laborable Invierno miercoles,L2_X_13:23_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_13:37_LxI,Laborable Invierno miercoles,L2_X_13:37_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_13:51_LxI,Laborable Invierno miercoles,L2_X_13:51_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_14:05_LxI,Laborable Invierno miercoles,L2_X_14:05_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_14:19_LxI,Laborable Invierno miercoles,L2_X_14:19_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_14:33_LxI,Laborable Invierno miercoles,L2_X_14:33_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_14:47_LxI,Laborable Invierno miercoles,L2_X_14:47_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_15:01_LxI,Laborable Invierno miercoles,L2_X_15:01_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_15:15_LxI,Laborable Invierno miercoles,L2_X_15:15_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_15:29_LxI,Laborable Invierno miercoles,L2_X_15:29_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_15:43_LxI,Laborable Invierno miercoles,L2_X_15:43_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_15:57_LxI,Laborable Invierno miercoles,L2_X_15:57_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_16:11_LxI,Laborable Invierno miercoles,L2_X_16:11_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_16:25_LxI,Laborable Invierno miercoles,L2_X_16:25_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_16:39_LxI,Laborable Invierno miercoles,L2_X_16:39_LxI,VERDE MERCADILLO,0,ro-8495f53d
+2,L2_X_16:53_LxI,Laborable Invierno miercoles,L2_X_16:53_LxI,VERDE MERCADILLO,0,ro-8495f53d
+3,L3_1_06:40_LI,Laborable Invierno,L3_1_06:40_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_06:40_LxI,Laborable Invierno miercoles,L3_1_06:40_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_07:00_LI,Laborable Invierno,L3_1_07:00_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_07:00_LxI,Laborable Invierno miercoles,L3_1_07:00_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_07:15_LI,Laborable Invierno,L3_1_07:15_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_07:15_LxI,Laborable Invierno miercoles,L3_1_07:15_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_07:30_LI,Laborable Invierno,L3_1_07:30_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_07:30_LxI,Laborable Invierno miercoles,L3_1_07:30_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_07:45_LI,Laborable Invierno,L3_1_07:45_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_07:45_LxI,Laborable Invierno miercoles,L3_1_07:45_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_07:50_DFI,Domingo y Festivos Invierno,L3_1_07:50_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_07:50_SI,Sabado Invierno,L3_1_07:50_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_08:00_LI,Laborable Invierno,L3_1_08:00_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_08:00_LxI,Laborable Invierno miercoles,L3_1_08:00_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_08:10_DFI,Domingo y Festivos Invierno,L3_1_08:10_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_08:10_SI,Sabado Invierno,L3_1_08:10_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_08:15_LI,Laborable Invierno,L3_1_08:15_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_08:15_LxI,Laborable Invierno miercoles,L3_1_08:15_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_08:30_DFI,Domingo y Festivos Invierno,L3_1_08:30_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_08:30_LI,Laborable Invierno,L3_1_08:30_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_08:30_LxI,Laborable Invierno miercoles,L3_1_08:30_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_08:30_SI,Sabado Invierno,L3_1_08:30_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_08:45_LI,Laborable Invierno,L3_1_08:45_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_08:45_LxI,Laborable Invierno miercoles,L3_1_08:45_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_08:50_DFI,Domingo y Festivos Invierno,L3_1_08:50_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_08:50_SI,Sabado Invierno,L3_1_08:50_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_09:00_LI,Laborable Invierno,L3_1_09:00_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_09:00_LxI,Laborable Invierno miercoles,L3_1_09:00_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_09:10_DFI,Domingo y Festivos Invierno,L3_1_09:10_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_09:10_SI,Sabado Invierno,L3_1_09:10_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_09:15_LI,Laborable Invierno,L3_1_09:15_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_09:15_LxI,Laborable Invierno miercoles,L3_1_09:15_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_09:30_DFI,Domingo y Festivos Invierno,L3_1_09:30_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_09:30_LI,Laborable Invierno,L3_1_09:30_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_09:30_LxI,Laborable Invierno miercoles,L3_1_09:30_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_09:30_SI,Sabado Invierno,L3_1_09:30_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_09:45_LI,Laborable Invierno,L3_1_09:45_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_09:45_LxI,Laborable Invierno miercoles,L3_1_09:45_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_09:50_DFI,Domingo y Festivos Invierno,L3_1_09:50_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_09:50_SI,Sabado Invierno,L3_1_09:50_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_10:00_LI,Laborable Invierno,L3_1_10:00_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_10:00_LxI,Laborable Invierno miercoles,L3_1_10:00_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_10:10_DFI,Domingo y Festivos Invierno,L3_1_10:10_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_10:10_SI,Sabado Invierno,L3_1_10:10_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_10:15_LI,Laborable Invierno,L3_1_10:15_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_10:15_LxI,Laborable Invierno miercoles,L3_1_10:15_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_10:30_DFI,Domingo y Festivos Invierno,L3_1_10:30_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_10:30_LI,Laborable Invierno,L3_1_10:30_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_10:30_LxI,Laborable Invierno miercoles,L3_1_10:30_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_10:30_SI,Sabado Invierno,L3_1_10:30_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_10:45_LI,Laborable Invierno,L3_1_10:45_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_10:45_LxI,Laborable Invierno miercoles,L3_1_10:45_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_10:50_DFI,Domingo y Festivos Invierno,L3_1_10:50_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_10:50_SI,Sabado Invierno,L3_1_10:50_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_11:00_LI,Laborable Invierno,L3_1_11:00_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_11:00_LxI,Laborable Invierno miercoles,L3_1_11:00_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_11:10_DFI,Domingo y Festivos Invierno,L3_1_11:10_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_11:10_SI,Sabado Invierno,L3_1_11:10_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_11:15_LI,Laborable Invierno,L3_1_11:15_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_11:15_LxI,Laborable Invierno miercoles,L3_1_11:15_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_11:30_DFI,Domingo y Festivos Invierno,L3_1_11:30_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_11:30_LI,Laborable Invierno,L3_1_11:30_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_11:30_LxI,Laborable Invierno miercoles,L3_1_11:30_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_11:30_SI,Sabado Invierno,L3_1_11:30_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_11:45_LI,Laborable Invierno,L3_1_11:45_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_11:45_LxI,Laborable Invierno miercoles,L3_1_11:45_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_11:50_DFI,Domingo y Festivos Invierno,L3_1_11:50_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_11:50_SI,Sabado Invierno,L3_1_11:50_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_12:00_LI,Laborable Invierno,L3_1_12:00_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_12:00_LxI,Laborable Invierno miercoles,L3_1_12:00_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_12:10_DFI,Domingo y Festivos Invierno,L3_1_12:10_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_12:10_SI,Sabado Invierno,L3_1_12:10_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_12:15_LI,Laborable Invierno,L3_1_12:15_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_12:15_LxI,Laborable Invierno miercoles,L3_1_12:15_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_12:30_DFI,Domingo y Festivos Invierno,L3_1_12:30_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_12:30_LI,Laborable Invierno,L3_1_12:30_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_12:30_LxI,Laborable Invierno miercoles,L3_1_12:30_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_12:30_SI,Sabado Invierno,L3_1_12:30_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_12:45_LI,Laborable Invierno,L3_1_12:45_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_12:45_LxI,Laborable Invierno miercoles,L3_1_12:45_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_12:50_DFI,Domingo y Festivos Invierno,L3_1_12:50_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_12:50_SI,Sabado Invierno,L3_1_12:50_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_13:00_LI,Laborable Invierno,L3_1_13:00_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_13:00_LxI,Laborable Invierno miercoles,L3_1_13:00_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_13:10_DFI,Domingo y Festivos Invierno,L3_1_13:10_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_13:10_SI,Sabado Invierno,L3_1_13:10_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_13:15_LI,Laborable Invierno,L3_1_13:15_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_13:15_LxI,Laborable Invierno miercoles,L3_1_13:15_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_13:30_DFI,Domingo y Festivos Invierno,L3_1_13:30_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_13:30_LI,Laborable Invierno,L3_1_13:30_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_13:30_LxI,Laborable Invierno miercoles,L3_1_13:30_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_13:30_SI,Sabado Invierno,L3_1_13:30_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_13:45_LI,Laborable Invierno,L3_1_13:45_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_13:45_LxI,Laborable Invierno miercoles,L3_1_13:45_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_13:50_DFI,Domingo y Festivos Invierno,L3_1_13:50_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_13:50_SI,Sabado Invierno,L3_1_13:50_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_14:00_LI,Laborable Invierno,L3_1_14:00_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_14:00_LxI,Laborable Invierno miercoles,L3_1_14:00_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_14:10_DFI,Domingo y Festivos Invierno,L3_1_14:10_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_14:10_SI,Sabado Invierno,L3_1_14:10_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_14:15_LI,Laborable Invierno,L3_1_14:15_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_14:15_LxI,Laborable Invierno miercoles,L3_1_14:15_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_14:30_DFI,Domingo y Festivos Invierno,L3_1_14:30_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_14:30_LI,Laborable Invierno,L3_1_14:30_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_14:30_LxI,Laborable Invierno miercoles,L3_1_14:30_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_14:30_SI,Sabado Invierno,L3_1_14:30_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_14:45_LI,Laborable Invierno,L3_1_14:45_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_14:45_LxI,Laborable Invierno miercoles,L3_1_14:45_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_14:50_DFI,Domingo y Festivos Invierno,L3_1_14:50_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_14:50_SI,Sabado Invierno,L3_1_14:50_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_15:00_LI,Laborable Invierno,L3_1_15:00_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_15:00_LxI,Laborable Invierno miercoles,L3_1_15:00_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_15:10_DFI,Domingo y Festivos Invierno,L3_1_15:10_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_15:10_SI,Sabado Invierno,L3_1_15:10_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_15:15_LI,Laborable Invierno,L3_1_15:15_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_15:15_LxI,Laborable Invierno miercoles,L3_1_15:15_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_15:30_DFI,Domingo y Festivos Invierno,L3_1_15:30_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_15:30_LI,Laborable Invierno,L3_1_15:30_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_15:30_LxI,Laborable Invierno miercoles,L3_1_15:30_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_15:30_SI,Sabado Invierno,L3_1_15:30_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_15:45_LI,Laborable Invierno,L3_1_15:45_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_15:45_LxI,Laborable Invierno miercoles,L3_1_15:45_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_15:50_DFI,Domingo y Festivos Invierno,L3_1_15:50_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_15:50_SI,Sabado Invierno,L3_1_15:50_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_16:00_LI,Laborable Invierno,L3_1_16:00_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_16:00_LxI,Laborable Invierno miercoles,L3_1_16:00_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_16:10_DFI,Domingo y Festivos Invierno,L3_1_16:10_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_16:10_SI,Sabado Invierno,L3_1_16:10_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_16:15_LI,Laborable Invierno,L3_1_16:15_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_16:15_LxI,Laborable Invierno miercoles,L3_1_16:15_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_16:30_DFI,Domingo y Festivos Invierno,L3_1_16:30_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_16:30_LI,Laborable Invierno,L3_1_16:30_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_16:30_LxI,Laborable Invierno miercoles,L3_1_16:30_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_16:30_SI,Sabado Invierno,L3_1_16:30_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_16:45_LI,Laborable Invierno,L3_1_16:45_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_16:45_LxI,Laborable Invierno miercoles,L3_1_16:45_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_16:50_DFI,Domingo y Festivos Invierno,L3_1_16:50_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_16:50_SI,Sabado Invierno,L3_1_16:50_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_17:00_LI,Laborable Invierno,L3_1_17:00_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_17:00_LxI,Laborable Invierno miercoles,L3_1_17:00_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_17:10_DFI,Domingo y Festivos Invierno,L3_1_17:10_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_17:10_SI,Sabado Invierno,L3_1_17:10_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_17:15_LI,Laborable Invierno,L3_1_17:15_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_17:15_LxI,Laborable Invierno miercoles,L3_1_17:15_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_17:30_DFI,Domingo y Festivos Invierno,L3_1_17:30_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_17:30_LI,Laborable Invierno,L3_1_17:30_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_17:30_LxI,Laborable Invierno miercoles,L3_1_17:30_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_17:30_SI,Sabado Invierno,L3_1_17:30_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_17:45_LI,Laborable Invierno,L3_1_17:45_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_17:45_LxI,Laborable Invierno miercoles,L3_1_17:45_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_17:50_DFI,Domingo y Festivos Invierno,L3_1_17:50_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_17:50_SI,Sabado Invierno,L3_1_17:50_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_18:00_LI,Laborable Invierno,L3_1_18:00_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_18:00_LxI,Laborable Invierno miercoles,L3_1_18:00_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_18:10_DFI,Domingo y Festivos Invierno,L3_1_18:10_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_18:10_SI,Sabado Invierno,L3_1_18:10_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_18:15_LI,Laborable Invierno,L3_1_18:15_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_18:15_LxI,Laborable Invierno miercoles,L3_1_18:15_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_18:30_DFI,Domingo y Festivos Invierno,L3_1_18:30_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_18:30_LI,Laborable Invierno,L3_1_18:30_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_18:30_LxI,Laborable Invierno miercoles,L3_1_18:30_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_18:30_SI,Sabado Invierno,L3_1_18:30_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_18:45_LI,Laborable Invierno,L3_1_18:45_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_18:45_LxI,Laborable Invierno miercoles,L3_1_18:45_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_18:50_DFI,Domingo y Festivos Invierno,L3_1_18:50_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_18:50_SI,Sabado Invierno,L3_1_18:50_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_19:00_LI,Laborable Invierno,L3_1_19:00_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_19:00_LxI,Laborable Invierno miercoles,L3_1_19:00_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_19:10_DFI,Domingo y Festivos Invierno,L3_1_19:10_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_19:10_SI,Sabado Invierno,L3_1_19:10_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_19:15_LI,Laborable Invierno,L3_1_19:15_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_19:15_LxI,Laborable Invierno miercoles,L3_1_19:15_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_19:30_DFI,Domingo y Festivos Invierno,L3_1_19:30_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_19:30_LI,Laborable Invierno,L3_1_19:30_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_19:30_LxI,Laborable Invierno miercoles,L3_1_19:30_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_19:30_SI,Sabado Invierno,L3_1_19:30_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_19:45_LI,Laborable Invierno,L3_1_19:45_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_19:45_LxI,Laborable Invierno miercoles,L3_1_19:45_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_19:50_DFI,Domingo y Festivos Invierno,L3_1_19:50_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_19:50_SI,Sabado Invierno,L3_1_19:50_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_20:00_LI,Laborable Invierno,L3_1_20:00_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_20:00_LxI,Laborable Invierno miercoles,L3_1_20:00_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_20:10_DFI,Domingo y Festivos Invierno,L3_1_20:10_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_20:10_SI,Sabado Invierno,L3_1_20:10_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_20:15_LI,Laborable Invierno,L3_1_20:15_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_20:15_LxI,Laborable Invierno miercoles,L3_1_20:15_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_20:30_DFI,Domingo y Festivos Invierno,L3_1_20:30_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_20:30_LI,Laborable Invierno,L3_1_20:30_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_20:30_LxI,Laborable Invierno miercoles,L3_1_20:30_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_20:30_SI,Sabado Invierno,L3_1_20:30_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_20:45_LI,Laborable Invierno,L3_1_20:45_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_20:45_LxI,Laborable Invierno miercoles,L3_1_20:45_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_20:50_DFI,Domingo y Festivos Invierno,L3_1_20:50_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_20:50_SI,Sabado Invierno,L3_1_20:50_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_21:00_LI,Laborable Invierno,L3_1_21:00_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_21:00_LxI,Laborable Invierno miercoles,L3_1_21:00_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_21:10_DFI,Domingo y Festivos Invierno,L3_1_21:10_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_21:10_SI,Sabado Invierno,L3_1_21:10_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_21:30_DFI,Domingo y Festivos Invierno,L3_1_21:30_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_21:30_LI,Laborable Invierno,L3_1_21:30_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_21:30_LxI,Laborable Invierno miercoles,L3_1_21:30_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_21:30_SI,Sabado Invierno,L3_1_21:30_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_22:00_DFI,Domingo y Festivos Invierno,L3_1_22:00_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_22:00_LI,Laborable Invierno,L3_1_22:00_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_22:00_LxI,Laborable Invierno miercoles,L3_1_22:00_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_22:00_SI,Sabado Invierno,L3_1_22:00_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_22:30_DFI,Domingo y Festivos Invierno,L3_1_22:30_DFI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_22:30_LI,Laborable Invierno,L3_1_22:30_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_22:30_LxI,Laborable Invierno miercoles,L3_1_22:30_LxI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_22:30_SI,Sabado Invierno,L3_1_22:30_SI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_23:00_LI,Laborable Invierno,L3_1_23:00_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,L3_1_23:00_LxI,Laborable Invierno miercoles,L3_1_23:00_LxI,CIRCULAR ROJA,0,ro-d8262e37
+4,L4_1_06:00_LI,Laborable Invierno,L4_1_06:00_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_06:00_LxI,Laborable Invierno miercoles,L4_1_06:00_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_06:15_LI,Laborable Invierno,L4_1_06:15_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_06:15_LxI,Laborable Invierno miercoles,L4_1_06:15_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_06:30_LI,Laborable Invierno,L4_1_06:30_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_06:30_LxI,Laborable Invierno miercoles,L4_1_06:30_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_06:45_DFI,Domingo y Festivos Invierno,L4_1_06:45_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_06:45_LI,Laborable Invierno,L4_1_06:45_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_06:45_LxI,Laborable Invierno miercoles,L4_1_06:45_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_06:45_SI,Sabado Invierno,L4_1_06:45_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_07:00_LI,Laborable Invierno,L4_1_07:00_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_07:00_LxI,Laborable Invierno miercoles,L4_1_07:00_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_07:05_DFI,Domingo y Festivos Invierno,L4_1_07:05_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_07:05_SI,Sabado Invierno,L4_1_07:05_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_07:15_LI,Laborable Invierno,L4_1_07:15_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_07:15_LxI,Laborable Invierno miercoles,L4_1_07:15_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_07:25_DFI,Domingo y Festivos Invierno,L4_1_07:25_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_07:25_SI,Sabado Invierno,L4_1_07:25_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_07:30_LI,Laborable Invierno,L4_1_07:30_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_07:30_LxI,Laborable Invierno miercoles,L4_1_07:30_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_07:45_DFI,Domingo y Festivos Invierno,L4_1_07:45_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_07:45_LI,Laborable Invierno,L4_1_07:45_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_07:45_LxI,Laborable Invierno miercoles,L4_1_07:45_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_07:45_SI,Sabado Invierno,L4_1_07:45_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_08:00_LI,Laborable Invierno,L4_1_08:00_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_08:00_LxI,Laborable Invierno miercoles,L4_1_08:00_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_08:05_DFI,Domingo y Festivos Invierno,L4_1_08:05_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_08:05_SI,Sabado Invierno,L4_1_08:05_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_08:15_LI,Laborable Invierno,L4_1_08:15_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_08:15_LxI,Laborable Invierno miercoles,L4_1_08:15_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_08:25_DFI,Domingo y Festivos Invierno,L4_1_08:25_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_08:25_SI,Sabado Invierno,L4_1_08:25_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_08:30_LI,Laborable Invierno,L4_1_08:30_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_08:30_LxI,Laborable Invierno miercoles,L4_1_08:30_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_08:45_DFI,Domingo y Festivos Invierno,L4_1_08:45_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_08:45_LI,Laborable Invierno,L4_1_08:45_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_08:45_LxI,Laborable Invierno miercoles,L4_1_08:45_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_08:45_SI,Sabado Invierno,L4_1_08:45_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_09:00_LI,Laborable Invierno,L4_1_09:00_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_09:00_LxI,Laborable Invierno miercoles,L4_1_09:00_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_09:05_DFI,Domingo y Festivos Invierno,L4_1_09:05_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_09:05_SI,Sabado Invierno,L4_1_09:05_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_09:15_LI,Laborable Invierno,L4_1_09:15_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_09:15_LxI,Laborable Invierno miercoles,L4_1_09:15_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_09:25_DFI,Domingo y Festivos Invierno,L4_1_09:25_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_09:25_SI,Sabado Invierno,L4_1_09:25_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_09:30_LI,Laborable Invierno,L4_1_09:30_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_09:30_LxI,Laborable Invierno miercoles,L4_1_09:30_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_09:45_DFI,Domingo y Festivos Invierno,L4_1_09:45_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_09:45_LI,Laborable Invierno,L4_1_09:45_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_09:45_LxI,Laborable Invierno miercoles,L4_1_09:45_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_09:45_SI,Sabado Invierno,L4_1_09:45_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_10:00_LI,Laborable Invierno,L4_1_10:00_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_10:00_LxI,Laborable Invierno miercoles,L4_1_10:00_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_10:05_DFI,Domingo y Festivos Invierno,L4_1_10:05_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_10:05_SI,Sabado Invierno,L4_1_10:05_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_10:15_LI,Laborable Invierno,L4_1_10:15_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_10:15_LxI,Laborable Invierno miercoles,L4_1_10:15_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_10:25_DFI,Domingo y Festivos Invierno,L4_1_10:25_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_10:25_SI,Sabado Invierno,L4_1_10:25_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_10:30_LI,Laborable Invierno,L4_1_10:30_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_10:30_LxI,Laborable Invierno miercoles,L4_1_10:30_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_10:45_DFI,Domingo y Festivos Invierno,L4_1_10:45_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_10:45_LI,Laborable Invierno,L4_1_10:45_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_10:45_LxI,Laborable Invierno miercoles,L4_1_10:45_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_10:45_SI,Sabado Invierno,L4_1_10:45_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_11:00_LI,Laborable Invierno,L4_1_11:00_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_11:00_LxI,Laborable Invierno miercoles,L4_1_11:00_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_11:05_DFI,Domingo y Festivos Invierno,L4_1_11:05_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_11:05_SI,Sabado Invierno,L4_1_11:05_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_11:15_LI,Laborable Invierno,L4_1_11:15_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_11:15_LxI,Laborable Invierno miercoles,L4_1_11:15_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_11:25_DFI,Domingo y Festivos Invierno,L4_1_11:25_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_11:25_SI,Sabado Invierno,L4_1_11:25_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_11:30_LI,Laborable Invierno,L4_1_11:30_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_11:30_LxI,Laborable Invierno miercoles,L4_1_11:30_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_11:45_DFI,Domingo y Festivos Invierno,L4_1_11:45_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_11:45_LI,Laborable Invierno,L4_1_11:45_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_11:45_LxI,Laborable Invierno miercoles,L4_1_11:45_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_11:45_SI,Sabado Invierno,L4_1_11:45_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_12:00_LI,Laborable Invierno,L4_1_12:00_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_12:00_LxI,Laborable Invierno miercoles,L4_1_12:00_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_12:05_DFI,Domingo y Festivos Invierno,L4_1_12:05_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_12:05_SI,Sabado Invierno,L4_1_12:05_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_12:15_LI,Laborable Invierno,L4_1_12:15_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_12:15_LxI,Laborable Invierno miercoles,L4_1_12:15_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_12:25_DFI,Domingo y Festivos Invierno,L4_1_12:25_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_12:25_SI,Sabado Invierno,L4_1_12:25_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_12:30_LI,Laborable Invierno,L4_1_12:30_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_12:30_LxI,Laborable Invierno miercoles,L4_1_12:30_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_12:45_DFI,Domingo y Festivos Invierno,L4_1_12:45_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_12:45_LI,Laborable Invierno,L4_1_12:45_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_12:45_LxI,Laborable Invierno miercoles,L4_1_12:45_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_12:45_SI,Sabado Invierno,L4_1_12:45_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_13:00_LI,Laborable Invierno,L4_1_13:00_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_13:00_LxI,Laborable Invierno miercoles,L4_1_13:00_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_13:05_DFI,Domingo y Festivos Invierno,L4_1_13:05_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_13:05_SI,Sabado Invierno,L4_1_13:05_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_13:15_LI,Laborable Invierno,L4_1_13:15_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_13:15_LxI,Laborable Invierno miercoles,L4_1_13:15_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_13:25_DFI,Domingo y Festivos Invierno,L4_1_13:25_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_13:25_SI,Sabado Invierno,L4_1_13:25_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_13:30_LI,Laborable Invierno,L4_1_13:30_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_13:30_LxI,Laborable Invierno miercoles,L4_1_13:30_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_13:45_DFI,Domingo y Festivos Invierno,L4_1_13:45_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_13:45_LI,Laborable Invierno,L4_1_13:45_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_13:45_LxI,Laborable Invierno miercoles,L4_1_13:45_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_13:45_SI,Sabado Invierno,L4_1_13:45_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_14:00_LI,Laborable Invierno,L4_1_14:00_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_14:00_LxI,Laborable Invierno miercoles,L4_1_14:00_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_14:05_DFI,Domingo y Festivos Invierno,L4_1_14:05_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_14:05_SI,Sabado Invierno,L4_1_14:05_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_14:15_LI,Laborable Invierno,L4_1_14:15_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_14:15_LxI,Laborable Invierno miercoles,L4_1_14:15_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_14:25_DFI,Domingo y Festivos Invierno,L4_1_14:25_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_14:25_SI,Sabado Invierno,L4_1_14:25_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_14:30_LI,Laborable Invierno,L4_1_14:30_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_14:30_LxI,Laborable Invierno miercoles,L4_1_14:30_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_14:45_DFI,Domingo y Festivos Invierno,L4_1_14:45_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_14:45_LI,Laborable Invierno,L4_1_14:45_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_14:45_LxI,Laborable Invierno miercoles,L4_1_14:45_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_14:45_SI,Sabado Invierno,L4_1_14:45_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_15:00_LI,Laborable Invierno,L4_1_15:00_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_15:00_LxI,Laborable Invierno miercoles,L4_1_15:00_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_15:05_DFI,Domingo y Festivos Invierno,L4_1_15:05_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_15:05_SI,Sabado Invierno,L4_1_15:05_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_15:15_LI,Laborable Invierno,L4_1_15:15_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_15:15_LxI,Laborable Invierno miercoles,L4_1_15:15_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_15:25_DFI,Domingo y Festivos Invierno,L4_1_15:25_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_15:25_SI,Sabado Invierno,L4_1_15:25_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_15:30_LI,Laborable Invierno,L4_1_15:30_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_15:30_LxI,Laborable Invierno miercoles,L4_1_15:30_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_15:45_DFI,Domingo y Festivos Invierno,L4_1_15:45_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_15:45_LI,Laborable Invierno,L4_1_15:45_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_15:45_LxI,Laborable Invierno miercoles,L4_1_15:45_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_15:45_SI,Sabado Invierno,L4_1_15:45_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_16:00_LI,Laborable Invierno,L4_1_16:00_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_16:00_LxI,Laborable Invierno miercoles,L4_1_16:00_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_16:05_DFI,Domingo y Festivos Invierno,L4_1_16:05_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_16:05_SI,Sabado Invierno,L4_1_16:05_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_16:15_LI,Laborable Invierno,L4_1_16:15_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_16:15_LxI,Laborable Invierno miercoles,L4_1_16:15_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_16:25_DFI,Domingo y Festivos Invierno,L4_1_16:25_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_16:25_SI,Sabado Invierno,L4_1_16:25_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_16:30_LI,Laborable Invierno,L4_1_16:30_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_16:30_LxI,Laborable Invierno miercoles,L4_1_16:30_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_16:45_DFI,Domingo y Festivos Invierno,L4_1_16:45_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_16:45_LI,Laborable Invierno,L4_1_16:45_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_16:45_LxI,Laborable Invierno miercoles,L4_1_16:45_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_16:45_SI,Sabado Invierno,L4_1_16:45_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_17:00_LI,Laborable Invierno,L4_1_17:00_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_17:00_LxI,Laborable Invierno miercoles,L4_1_17:00_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_17:05_DFI,Domingo y Festivos Invierno,L4_1_17:05_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_17:05_SI,Sabado Invierno,L4_1_17:05_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_17:15_LI,Laborable Invierno,L4_1_17:15_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_17:15_LxI,Laborable Invierno miercoles,L4_1_17:15_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_17:25_DFI,Domingo y Festivos Invierno,L4_1_17:25_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_17:25_SI,Sabado Invierno,L4_1_17:25_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_17:30_LI,Laborable Invierno,L4_1_17:30_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_17:30_LxI,Laborable Invierno miercoles,L4_1_17:30_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_17:45_DFI,Domingo y Festivos Invierno,L4_1_17:45_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_17:45_LI,Laborable Invierno,L4_1_17:45_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_17:45_LxI,Laborable Invierno miercoles,L4_1_17:45_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_17:45_SI,Sabado Invierno,L4_1_17:45_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_18:00_LI,Laborable Invierno,L4_1_18:00_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_18:00_LxI,Laborable Invierno miercoles,L4_1_18:00_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_18:05_DFI,Domingo y Festivos Invierno,L4_1_18:05_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_18:05_SI,Sabado Invierno,L4_1_18:05_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_18:15_LI,Laborable Invierno,L4_1_18:15_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_18:15_LxI,Laborable Invierno miercoles,L4_1_18:15_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_18:25_DFI,Domingo y Festivos Invierno,L4_1_18:25_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_18:25_SI,Sabado Invierno,L4_1_18:25_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_18:30_LI,Laborable Invierno,L4_1_18:30_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_18:30_LxI,Laborable Invierno miercoles,L4_1_18:30_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_18:45_DFI,Domingo y Festivos Invierno,L4_1_18:45_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_18:45_LI,Laborable Invierno,L4_1_18:45_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_18:45_LxI,Laborable Invierno miercoles,L4_1_18:45_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_18:45_SI,Sabado Invierno,L4_1_18:45_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_19:00_LI,Laborable Invierno,L4_1_19:00_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_19:00_LxI,Laborable Invierno miercoles,L4_1_19:00_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_19:05_DFI,Domingo y Festivos Invierno,L4_1_19:05_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_19:05_SI,Sabado Invierno,L4_1_19:05_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_19:15_LI,Laborable Invierno,L4_1_19:15_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_19:15_LxI,Laborable Invierno miercoles,L4_1_19:15_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_19:25_DFI,Domingo y Festivos Invierno,L4_1_19:25_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_19:25_SI,Sabado Invierno,L4_1_19:25_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_19:30_LI,Laborable Invierno,L4_1_19:30_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_19:30_LxI,Laborable Invierno miercoles,L4_1_19:30_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_19:45_DFI,Domingo y Festivos Invierno,L4_1_19:45_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_19:45_LI,Laborable Invierno,L4_1_19:45_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_19:45_LxI,Laborable Invierno miercoles,L4_1_19:45_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_19:45_SI,Sabado Invierno,L4_1_19:45_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_20:00_LI,Laborable Invierno,L4_1_20:00_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_20:00_LxI,Laborable Invierno miercoles,L4_1_20:00_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_20:05_DFI,Domingo y Festivos Invierno,L4_1_20:05_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_20:05_SI,Sabado Invierno,L4_1_20:05_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_20:15_LI,Laborable Invierno,L4_1_20:15_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_20:15_LxI,Laborable Invierno miercoles,L4_1_20:15_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_20:25_DFI,Domingo y Festivos Invierno,L4_1_20:25_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_20:25_SI,Sabado Invierno,L4_1_20:25_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_20:30_LI,Laborable Invierno,L4_1_20:30_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_20:30_LxI,Laborable Invierno miercoles,L4_1_20:30_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_20:45_DFI,Domingo y Festivos Invierno,L4_1_20:45_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_20:45_LI,Laborable Invierno,L4_1_20:45_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_20:45_LxI,Laborable Invierno miercoles,L4_1_20:45_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_20:45_SI,Sabado Invierno,L4_1_20:45_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_21:00_LI,Laborable Invierno,L4_1_21:00_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_21:00_LxI,Laborable Invierno miercoles,L4_1_21:00_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_21:05_DFI,Domingo y Festivos Invierno,L4_1_21:05_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_21:05_SI,Sabado Invierno,L4_1_21:05_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_21:15_LI,Laborable Invierno,L4_1_21:15_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_21:15_LxI,Laborable Invierno miercoles,L4_1_21:15_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_21:25_DFI,Domingo y Festivos Invierno,L4_1_21:25_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_21:25_SI,Sabado Invierno,L4_1_21:25_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_21:30_LI,Laborable Invierno,L4_1_21:30_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_21:30_LxI,Laborable Invierno miercoles,L4_1_21:30_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_21:45_DFI,Domingo y Festivos Invierno,L4_1_21:45_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_21:45_LI,Laborable Invierno,L4_1_21:45_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_21:45_LxI,Laborable Invierno miercoles,L4_1_21:45_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_21:45_SI,Sabado Invierno,L4_1_21:45_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_22:00_LI,Laborable Invierno,L4_1_22:00_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_22:00_LxI,Laborable Invierno miercoles,L4_1_22:00_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_22:05_DFI,Domingo y Festivos Invierno,L4_1_22:05_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_22:05_SI,Sabado Invierno,L4_1_22:05_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_22:25_DFI,Domingo y Festivos Invierno,L4_1_22:25_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_22:25_SI,Sabado Invierno,L4_1_22:25_SI,LORANCA,0,ro-bf0777c2
+4,L4_1_22:30_LI,Laborable Invierno,L4_1_22:30_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_22:30_LxI,Laborable Invierno miercoles,L4_1_22:30_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_23:00_DFI,Domingo y Festivos Invierno,L4_1_23:00_DFI,LORANCA,0,ro-bf0777c2
+4,L4_1_23:00_LI,Laborable Invierno,L4_1_23:00_LI,LORANCA,0,ro-bf0777c2
+4,L4_1_23:00_LxI,Laborable Invierno miercoles,L4_1_23:00_LxI,LORANCA,0,ro-bf0777c2
+4,L4_1_23:00_SI,Sabado Invierno,L4_1_23:00_SI,LORANCA,0,ro-bf0777c2
+4,L4_2_06:00_LI,Laborable Invierno,L4_2_06:00_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_06:00_LxI,Laborable Invierno miercoles,L4_2_06:00_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_06:15_LI,Laborable Invierno,L4_2_06:15_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_06:15_LxI,Laborable Invierno miercoles,L4_2_06:15_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_06:30_LI,Laborable Invierno,L4_2_06:30_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_06:30_LxI,Laborable Invierno miercoles,L4_2_06:30_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_06:45_DFI,Domingo y Festivos Invierno,L4_2_06:45_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_06:45_LI,Laborable Invierno,L4_2_06:45_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_06:45_LxI,Laborable Invierno miercoles,L4_2_06:45_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_06:45_SI,Sabado Invierno,L4_2_06:45_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_07:00_LI,Laborable Invierno,L4_2_07:00_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_07:00_LxI,Laborable Invierno miercoles,L4_2_07:00_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_07:05_DFI,Domingo y Festivos Invierno,L4_2_07:05_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_07:05_SI,Sabado Invierno,L4_2_07:05_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_07:15_LI,Laborable Invierno,L4_2_07:15_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_07:15_LxI,Laborable Invierno miercoles,L4_2_07:15_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_07:22_DFI,Domingo y Festivos Invierno,L4_2_07:22_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_07:22_SI,Sabado Invierno,L4_2_07:22_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_07:30_LI,Laborable Invierno,L4_2_07:30_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_07:30_LxI,Laborable Invierno miercoles,L4_2_07:30_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_07:42_DFI,Domingo y Festivos Invierno,L4_2_07:42_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_07:42_SI,Sabado Invierno,L4_2_07:42_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_07:45_LI,Laborable Invierno,L4_2_07:45_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_07:45_LxI,Laborable Invierno miercoles,L4_2_07:45_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_08:00_LI,Laborable Invierno,L4_2_08:00_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_08:00_LxI,Laborable Invierno miercoles,L4_2_08:00_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_08:02_DFI,Domingo y Festivos Invierno,L4_2_08:02_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_08:02_SI,Sabado Invierno,L4_2_08:02_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_08:15_LI,Laborable Invierno,L4_2_08:15_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_08:15_LxI,Laborable Invierno miercoles,L4_2_08:15_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_08:22_DFI,Domingo y Festivos Invierno,L4_2_08:22_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_08:22_SI,Sabado Invierno,L4_2_08:22_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_08:30_LI,Laborable Invierno,L4_2_08:30_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_08:30_LxI,Laborable Invierno miercoles,L4_2_08:30_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_08:42_DFI,Domingo y Festivos Invierno,L4_2_08:42_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_08:42_SI,Sabado Invierno,L4_2_08:42_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_08:45_LI,Laborable Invierno,L4_2_08:45_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_08:45_LxI,Laborable Invierno miercoles,L4_2_08:45_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_09:00_LI,Laborable Invierno,L4_2_09:00_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_09:00_LxI,Laborable Invierno miercoles,L4_2_09:00_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_09:02_DFI,Domingo y Festivos Invierno,L4_2_09:02_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_09:02_SI,Sabado Invierno,L4_2_09:02_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_09:15_LI,Laborable Invierno,L4_2_09:15_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_09:15_LxI,Laborable Invierno miercoles,L4_2_09:15_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_09:22_DFI,Domingo y Festivos Invierno,L4_2_09:22_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_09:22_SI,Sabado Invierno,L4_2_09:22_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_09:30_LI,Laborable Invierno,L4_2_09:30_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_09:30_LxI,Laborable Invierno miercoles,L4_2_09:30_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_09:42_DFI,Domingo y Festivos Invierno,L4_2_09:42_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_09:42_SI,Sabado Invierno,L4_2_09:42_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_09:45_LI,Laborable Invierno,L4_2_09:45_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_09:45_LxI,Laborable Invierno miercoles,L4_2_09:45_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_10:00_LI,Laborable Invierno,L4_2_10:00_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_10:00_LxI,Laborable Invierno miercoles,L4_2_10:00_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_10:02_DFI,Domingo y Festivos Invierno,L4_2_10:02_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_10:02_SI,Sabado Invierno,L4_2_10:02_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_10:15_LI,Laborable Invierno,L4_2_10:15_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_10:15_LxI,Laborable Invierno miercoles,L4_2_10:15_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_10:22_DFI,Domingo y Festivos Invierno,L4_2_10:22_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_10:22_SI,Sabado Invierno,L4_2_10:22_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_10:30_LI,Laborable Invierno,L4_2_10:30_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_10:30_LxI,Laborable Invierno miercoles,L4_2_10:30_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_10:42_DFI,Domingo y Festivos Invierno,L4_2_10:42_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_10:42_SI,Sabado Invierno,L4_2_10:42_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_10:45_LI,Laborable Invierno,L4_2_10:45_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_10:45_LxI,Laborable Invierno miercoles,L4_2_10:45_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_11:00_LI,Laborable Invierno,L4_2_11:00_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_11:00_LxI,Laborable Invierno miercoles,L4_2_11:00_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_11:02_DFI,Domingo y Festivos Invierno,L4_2_11:02_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_11:02_SI,Sabado Invierno,L4_2_11:02_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_11:15_LI,Laborable Invierno,L4_2_11:15_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_11:15_LxI,Laborable Invierno miercoles,L4_2_11:15_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_11:22_DFI,Domingo y Festivos Invierno,L4_2_11:22_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_11:22_SI,Sabado Invierno,L4_2_11:22_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_11:30_LI,Laborable Invierno,L4_2_11:30_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_11:30_LxI,Laborable Invierno miercoles,L4_2_11:30_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_11:42_DFI,Domingo y Festivos Invierno,L4_2_11:42_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_11:42_SI,Sabado Invierno,L4_2_11:42_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_11:45_LI,Laborable Invierno,L4_2_11:45_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_11:45_LxI,Laborable Invierno miercoles,L4_2_11:45_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_12:00_LI,Laborable Invierno,L4_2_12:00_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_12:00_LxI,Laborable Invierno miercoles,L4_2_12:00_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_12:02_DFI,Domingo y Festivos Invierno,L4_2_12:02_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_12:02_SI,Sabado Invierno,L4_2_12:02_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_12:15_LI,Laborable Invierno,L4_2_12:15_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_12:15_LxI,Laborable Invierno miercoles,L4_2_12:15_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_12:22_DFI,Domingo y Festivos Invierno,L4_2_12:22_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_12:22_SI,Sabado Invierno,L4_2_12:22_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_12:30_LI,Laborable Invierno,L4_2_12:30_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_12:30_LxI,Laborable Invierno miercoles,L4_2_12:30_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_12:42_DFI,Domingo y Festivos Invierno,L4_2_12:42_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_12:42_SI,Sabado Invierno,L4_2_12:42_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_12:45_LI,Laborable Invierno,L4_2_12:45_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_12:45_LxI,Laborable Invierno miercoles,L4_2_12:45_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_13:00_LI,Laborable Invierno,L4_2_13:00_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_13:00_LxI,Laborable Invierno miercoles,L4_2_13:00_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_13:02_DFI,Domingo y Festivos Invierno,L4_2_13:02_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_13:02_SI,Sabado Invierno,L4_2_13:02_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_13:15_LI,Laborable Invierno,L4_2_13:15_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_13:15_LxI,Laborable Invierno miercoles,L4_2_13:15_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_13:22_DFI,Domingo y Festivos Invierno,L4_2_13:22_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_13:22_SI,Sabado Invierno,L4_2_13:22_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_13:30_LI,Laborable Invierno,L4_2_13:30_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_13:30_LxI,Laborable Invierno miercoles,L4_2_13:30_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_13:42_DFI,Domingo y Festivos Invierno,L4_2_13:42_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_13:42_SI,Sabado Invierno,L4_2_13:42_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_13:45_LI,Laborable Invierno,L4_2_13:45_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_13:45_LxI,Laborable Invierno miercoles,L4_2_13:45_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_14:00_LI,Laborable Invierno,L4_2_14:00_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_14:00_LxI,Laborable Invierno miercoles,L4_2_14:00_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_14:02_DFI,Domingo y Festivos Invierno,L4_2_14:02_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_14:02_SI,Sabado Invierno,L4_2_14:02_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_14:15_LI,Laborable Invierno,L4_2_14:15_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_14:15_LxI,Laborable Invierno miercoles,L4_2_14:15_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_14:22_DFI,Domingo y Festivos Invierno,L4_2_14:22_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_14:22_SI,Sabado Invierno,L4_2_14:22_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_14:30_LI,Laborable Invierno,L4_2_14:30_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_14:30_LxI,Laborable Invierno miercoles,L4_2_14:30_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_14:42_DFI,Domingo y Festivos Invierno,L4_2_14:42_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_14:42_SI,Sabado Invierno,L4_2_14:42_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_14:45_LI,Laborable Invierno,L4_2_14:45_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_14:45_LxI,Laborable Invierno miercoles,L4_2_14:45_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_15:00_LI,Laborable Invierno,L4_2_15:00_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_15:00_LxI,Laborable Invierno miercoles,L4_2_15:00_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_15:02_DFI,Domingo y Festivos Invierno,L4_2_15:02_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_15:02_SI,Sabado Invierno,L4_2_15:02_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_15:15_LI,Laborable Invierno,L4_2_15:15_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_15:15_LxI,Laborable Invierno miercoles,L4_2_15:15_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_15:22_DFI,Domingo y Festivos Invierno,L4_2_15:22_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_15:22_SI,Sabado Invierno,L4_2_15:22_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_15:30_LI,Laborable Invierno,L4_2_15:30_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_15:30_LxI,Laborable Invierno miercoles,L4_2_15:30_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_15:42_DFI,Domingo y Festivos Invierno,L4_2_15:42_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_15:42_SI,Sabado Invierno,L4_2_15:42_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_15:45_LI,Laborable Invierno,L4_2_15:45_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_15:45_LxI,Laborable Invierno miercoles,L4_2_15:45_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_16:00_LI,Laborable Invierno,L4_2_16:00_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_16:00_LxI,Laborable Invierno miercoles,L4_2_16:00_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_16:02_DFI,Domingo y Festivos Invierno,L4_2_16:02_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_16:02_SI,Sabado Invierno,L4_2_16:02_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_16:15_LI,Laborable Invierno,L4_2_16:15_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_16:15_LxI,Laborable Invierno miercoles,L4_2_16:15_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_16:22_DFI,Domingo y Festivos Invierno,L4_2_16:22_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_16:22_SI,Sabado Invierno,L4_2_16:22_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_16:30_LI,Laborable Invierno,L4_2_16:30_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_16:30_LxI,Laborable Invierno miercoles,L4_2_16:30_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_16:42_DFI,Domingo y Festivos Invierno,L4_2_16:42_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_16:42_SI,Sabado Invierno,L4_2_16:42_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_16:45_LI,Laborable Invierno,L4_2_16:45_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_16:45_LxI,Laborable Invierno miercoles,L4_2_16:45_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_17:00_LI,Laborable Invierno,L4_2_17:00_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_17:00_LxI,Laborable Invierno miercoles,L4_2_17:00_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_17:02_DFI,Domingo y Festivos Invierno,L4_2_17:02_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_17:02_SI,Sabado Invierno,L4_2_17:02_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_17:15_LI,Laborable Invierno,L4_2_17:15_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_17:15_LxI,Laborable Invierno miercoles,L4_2_17:15_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_17:22_DFI,Domingo y Festivos Invierno,L4_2_17:22_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_17:22_SI,Sabado Invierno,L4_2_17:22_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_17:30_LI,Laborable Invierno,L4_2_17:30_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_17:30_LxI,Laborable Invierno miercoles,L4_2_17:30_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_17:42_DFI,Domingo y Festivos Invierno,L4_2_17:42_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_17:42_SI,Sabado Invierno,L4_2_17:42_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_17:45_LI,Laborable Invierno,L4_2_17:45_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_17:45_LxI,Laborable Invierno miercoles,L4_2_17:45_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_18:00_LI,Laborable Invierno,L4_2_18:00_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_18:00_LxI,Laborable Invierno miercoles,L4_2_18:00_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_18:02_DFI,Domingo y Festivos Invierno,L4_2_18:02_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_18:02_SI,Sabado Invierno,L4_2_18:02_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_18:15_LI,Laborable Invierno,L4_2_18:15_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_18:15_LxI,Laborable Invierno miercoles,L4_2_18:15_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_18:22_DFI,Domingo y Festivos Invierno,L4_2_18:22_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_18:22_SI,Sabado Invierno,L4_2_18:22_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_18:30_LI,Laborable Invierno,L4_2_18:30_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_18:30_LxI,Laborable Invierno miercoles,L4_2_18:30_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_18:42_DFI,Domingo y Festivos Invierno,L4_2_18:42_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_18:42_SI,Sabado Invierno,L4_2_18:42_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_18:45_LI,Laborable Invierno,L4_2_18:45_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_18:45_LxI,Laborable Invierno miercoles,L4_2_18:45_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_19:00_LI,Laborable Invierno,L4_2_19:00_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_19:00_LxI,Laborable Invierno miercoles,L4_2_19:00_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_19:02_DFI,Domingo y Festivos Invierno,L4_2_19:02_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_19:02_SI,Sabado Invierno,L4_2_19:02_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_19:15_LI,Laborable Invierno,L4_2_19:15_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_19:15_LxI,Laborable Invierno miercoles,L4_2_19:15_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_19:22_DFI,Domingo y Festivos Invierno,L4_2_19:22_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_19:22_SI,Sabado Invierno,L4_2_19:22_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_19:30_LI,Laborable Invierno,L4_2_19:30_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_19:30_LxI,Laborable Invierno miercoles,L4_2_19:30_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_19:42_DFI,Domingo y Festivos Invierno,L4_2_19:42_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_19:42_SI,Sabado Invierno,L4_2_19:42_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_19:45_LI,Laborable Invierno,L4_2_19:45_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_19:45_LxI,Laborable Invierno miercoles,L4_2_19:45_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_20:00_LI,Laborable Invierno,L4_2_20:00_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_20:00_LxI,Laborable Invierno miercoles,L4_2_20:00_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_20:02_DFI,Domingo y Festivos Invierno,L4_2_20:02_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_20:02_SI,Sabado Invierno,L4_2_20:02_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_20:15_LI,Laborable Invierno,L4_2_20:15_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_20:15_LxI,Laborable Invierno miercoles,L4_2_20:15_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_20:22_DFI,Domingo y Festivos Invierno,L4_2_20:22_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_20:22_SI,Sabado Invierno,L4_2_20:22_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_20:30_LI,Laborable Invierno,L4_2_20:30_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_20:30_LxI,Laborable Invierno miercoles,L4_2_20:30_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_20:42_DFI,Domingo y Festivos Invierno,L4_2_20:42_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_20:42_SI,Sabado Invierno,L4_2_20:42_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_20:45_LI,Laborable Invierno,L4_2_20:45_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_20:45_LxI,Laborable Invierno miercoles,L4_2_20:45_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_21:00_LI,Laborable Invierno,L4_2_21:00_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_21:00_LxI,Laborable Invierno miercoles,L4_2_21:00_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_21:02_DFI,Domingo y Festivos Invierno,L4_2_21:02_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_21:02_SI,Sabado Invierno,L4_2_21:02_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_21:15_LI,Laborable Invierno,L4_2_21:15_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_21:15_LxI,Laborable Invierno miercoles,L4_2_21:15_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_21:22_DFI,Domingo y Festivos Invierno,L4_2_21:22_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_21:22_SI,Sabado Invierno,L4_2_21:22_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_21:30_LI,Laborable Invierno,L4_2_21:30_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_21:30_LxI,Laborable Invierno miercoles,L4_2_21:30_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_21:42_DFI,Domingo y Festivos Invierno,L4_2_21:42_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_21:42_SI,Sabado Invierno,L4_2_21:42_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_21:45_LI,Laborable Invierno,L4_2_21:45_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_21:45_LxI,Laborable Invierno miercoles,L4_2_21:45_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_22:00_DFI,Domingo y Festivos Invierno,L4_2_22:00_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_22:00_LI,Laborable Invierno,L4_2_22:00_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_22:00_LxI,Laborable Invierno miercoles,L4_2_22:00_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_22:00_SI,Sabado Invierno,L4_2_22:00_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_22:20_DFI,Domingo y Festivos Invierno,L4_2_22:20_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_22:20_SI,Sabado Invierno,L4_2_22:20_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_22:30_LI,Laborable Invierno,L4_2_22:30_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_22:30_LxI,Laborable Invierno miercoles,L4_2_22:30_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_22:40_DFI,Domingo y Festivos Invierno,L4_2_22:40_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_22:40_SI,Sabado Invierno,L4_2_22:40_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_23:00_DFI,Domingo y Festivos Invierno,L4_2_23:00_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_23:00_LI,Laborable Invierno,L4_2_23:00_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_23:00_LxI,Laborable Invierno miercoles,L4_2_23:00_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_23:00_SI,Sabado Invierno,L4_2_23:00_SI,LA FUENTE,1,ro-82768de2
+4,L4_2_23:30_DFI,Domingo y Festivos Invierno,L4_2_23:30_DFI,LA FUENTE,1,ro-82768de2
+4,L4_2_23:30_LI,Laborable Invierno,L4_2_23:30_LI,LA FUENTE,1,ro-82768de2
+4,L4_2_23:30_LxI,Laborable Invierno miercoles,L4_2_23:30_LxI,LA FUENTE,1,ro-82768de2
+4,L4_2_23:30_SI,Sabado Invierno,L4_2_23:30_SI,LA FUENTE,1,ro-82768de2
+5,L5_1_01:00_DFI,Domingo y Festivos Invierno,L5_1_01:00_DFI,NOCTURNA,0,ro-fdd1a127
+5,L5_1_01:00_SI,Sabado Invierno,L5_1_01:00_SI,NOCTURNA,0,ro-fdd1a127
+5,L5_1_01:55_LI,Laborable Invierno,L5_1_01:55_LI,NOCTURNA,0,ro-fdd1a127
+5,L5_1_01:55_LxI,Laborable Invierno miercoles,L5_1_01:55_LxI,NOCTURNA,0,ro-fdd1a127
+5,L5_1_02:00_DFI,Domingo y Festivos Invierno,L5_1_02:00_DFI,NOCTURNA,0,ro-fdd1a127
+5,L5_1_02:00_SI,Sabado Invierno,L5_1_02:00_SI,NOCTURNA,0,ro-fdd1a127
+5,L5_1_02:55_LI,Laborable Invierno,L5_1_02:55_LI,NOCTURNA,0,ro-fdd1a127
+5,L5_1_02:55_LxI,Laborable Invierno miercoles,L5_1_02:55_LxI,NOCTURNA,0,ro-fdd1a127
+5,L5_1_03:00_DFI,Domingo y Festivos Invierno,L5_1_03:00_DFI,NOCTURNA,0,ro-fdd1a127
+5,L5_1_03:00_SI,Sabado Invierno,L5_1_03:00_SI,NOCTURNA,0,ro-fdd1a127
+5,L5_1_03:55_LI,Laborable Invierno,L5_1_03:55_LI,NOCTURNA,0,ro-fdd1a127
+5,L5_1_03:55_LxI,Laborable Invierno miercoles,L5_1_03:55_LxI,NOCTURNA,0,ro-fdd1a127
+5,L5_1_04:00_DFI,Domingo y Festivos Invierno,L5_1_04:00_DFI,NOCTURNA,0,ro-fdd1a127
+5,L5_1_04:00_SI,Sabado Invierno,L5_1_04:00_SI,NOCTURNA,0,ro-fdd1a127
+5,L5_1_04:55_DFI,Domingo y Festivos Invierno,L5_1_04:55_DFI,NOCTURNA,0,ro-fdd1a127
+5,L5_1_04:55_LI,Laborable Invierno,L5_1_04:55_LI,NOCTURNA,0,ro-fdd1a127
+5,L5_1_04:55_LxI,Laborable Invierno miercoles,L5_1_04:55_LxI,NOCTURNA,0,ro-fdd1a127
+5,L5_1_04:55_SI,Sabado Invierno,L5_1_04:55_SI,NOCTURNA,0,ro-fdd1a127
+5,L5_1_24:55_LI,Laborable Invierno,L5_1_24:55_LI,NOCTURNA,0,ro-fdd1a127
+5,L5_1_24:55_LxI,Laborable Invierno miercoles,L5_1_24:55_LxI,NOCTURNA,0,ro-fdd1a127
+5,L5_2_24:01_DFI,Domingo y Festivos Invierno,L5_2_24:01_DFI,NOCTURNA CENTRO,0,ro-873c0384
+5,L5_2_24:01_LI,Laborable Invierno,L5_2_24:01_LI,NOCTURNA CENTRO,0,ro-873c0384
+5,L5_2_24:01_LxI,Laborable Invierno miercoles,L5_2_24:01_LxI,NOCTURNA CENTRO,0,ro-873c0384
+5,L5_2_24:01_SI,Sabado Invierno,L5_2_24:01_SI,NOCTURNA CENTRO,0,ro-873c0384
+6,L6_1_08:00_DFI,Domingo y Festivos Invierno,L6_1_08:00_DFI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_08:00_LI,Laborable Invierno,L6_1_08:00_LI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_08:00_LxI,Laborable Invierno miercoles,L6_1_08:00_LxI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_08:00_SI,Sabado Invierno,L6_1_08:00_SI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_09:00_DFI,Domingo y Festivos Invierno,L6_1_09:00_DFI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_09:00_LI,Laborable Invierno,L6_1_09:00_LI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_09:00_LxI,Laborable Invierno miercoles,L6_1_09:00_LxI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_09:00_SI,Sabado Invierno,L6_1_09:00_SI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_10:00_DFI,Domingo y Festivos Invierno,L6_1_10:00_DFI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_10:00_LI,Laborable Invierno,L6_1_10:00_LI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_10:00_LxI,Laborable Invierno miercoles,L6_1_10:00_LxI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_10:00_SI,Sabado Invierno,L6_1_10:00_SI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_11:00_DFI,Domingo y Festivos Invierno,L6_1_11:00_DFI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_11:00_LI,Laborable Invierno,L6_1_11:00_LI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_11:00_LxI,Laborable Invierno miercoles,L6_1_11:00_LxI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_11:00_SI,Sabado Invierno,L6_1_11:00_SI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_12:00_DFI,Domingo y Festivos Invierno,L6_1_12:00_DFI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_12:00_LI,Laborable Invierno,L6_1_12:00_LI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_12:00_LxI,Laborable Invierno miercoles,L6_1_12:00_LxI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_12:00_SI,Sabado Invierno,L6_1_12:00_SI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_13:00_DFI,Domingo y Festivos Invierno,L6_1_13:00_DFI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_13:00_LI,Laborable Invierno,L6_1_13:00_LI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_13:00_LxI,Laborable Invierno miercoles,L6_1_13:00_LxI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_13:00_SI,Sabado Invierno,L6_1_13:00_SI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_14:00_DFI,Domingo y Festivos Invierno,L6_1_14:00_DFI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_14:00_LI,Laborable Invierno,L6_1_14:00_LI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_14:00_LxI,Laborable Invierno miercoles,L6_1_14:00_LxI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_14:00_SI,Sabado Invierno,L6_1_14:00_SI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_15:00_DFI,Domingo y Festivos Invierno,L6_1_15:00_DFI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_15:00_LI,Laborable Invierno,L6_1_15:00_LI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_15:00_LxI,Laborable Invierno miercoles,L6_1_15:00_LxI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_15:00_SI,Sabado Invierno,L6_1_15:00_SI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_16:00_DFI,Domingo y Festivos Invierno,L6_1_16:00_DFI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_16:00_LI,Laborable Invierno,L6_1_16:00_LI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_16:00_LxI,Laborable Invierno miercoles,L6_1_16:00_LxI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_16:00_SI,Sabado Invierno,L6_1_16:00_SI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_17:00_DFI,Domingo y Festivos Invierno,L6_1_17:00_DFI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_17:00_LI,Laborable Invierno,L6_1_17:00_LI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_17:00_LxI,Laborable Invierno miercoles,L6_1_17:00_LxI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_17:00_SI,Sabado Invierno,L6_1_17:00_SI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_18:00_DFI,Domingo y Festivos Invierno,L6_1_18:00_DFI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_18:00_LI,Laborable Invierno,L6_1_18:00_LI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_18:00_LxI,Laborable Invierno miercoles,L6_1_18:00_LxI,CEMENTERIO,0,ro-bd576ca6
+6,L6_1_18:00_SI,Sabado Invierno,L6_1_18:00_SI,CEMENTERIO,0,ro-bd576ca6
+6,L6_2_08:30_DFI,Domingo y Festivos Invierno,L6_2_08:30_DFI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_08:30_LI,Laborable Invierno,L6_2_08:30_LI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_08:30_LxI,Laborable Invierno miercoles,L6_2_08:30_LxI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_08:30_SI,Sabado Invierno,L6_2_08:30_SI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_09:30_DFI,Domingo y Festivos Invierno,L6_2_09:30_DFI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_09:30_LI,Laborable Invierno,L6_2_09:30_LI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_09:30_LxI,Laborable Invierno miercoles,L6_2_09:30_LxI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_09:30_SI,Sabado Invierno,L6_2_09:30_SI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_10:30_DFI,Domingo y Festivos Invierno,L6_2_10:30_DFI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_10:30_LI,Laborable Invierno,L6_2_10:30_LI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_10:30_LxI,Laborable Invierno miercoles,L6_2_10:30_LxI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_10:30_SI,Sabado Invierno,L6_2_10:30_SI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_11:30_DFI,Domingo y Festivos Invierno,L6_2_11:30_DFI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_11:30_LI,Laborable Invierno,L6_2_11:30_LI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_11:30_LxI,Laborable Invierno miercoles,L6_2_11:30_LxI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_11:30_SI,Sabado Invierno,L6_2_11:30_SI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_12:30_DFI,Domingo y Festivos Invierno,L6_2_12:30_DFI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_12:30_LI,Laborable Invierno,L6_2_12:30_LI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_12:30_LxI,Laborable Invierno miercoles,L6_2_12:30_LxI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_12:30_SI,Sabado Invierno,L6_2_12:30_SI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_13:30_DFI,Domingo y Festivos Invierno,L6_2_13:30_DFI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_13:30_LI,Laborable Invierno,L6_2_13:30_LI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_13:30_LxI,Laborable Invierno miercoles,L6_2_13:30_LxI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_13:30_SI,Sabado Invierno,L6_2_13:30_SI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_14:30_DFI,Domingo y Festivos Invierno,L6_2_14:30_DFI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_14:30_LI,Laborable Invierno,L6_2_14:30_LI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_14:30_LxI,Laborable Invierno miercoles,L6_2_14:30_LxI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_14:30_SI,Sabado Invierno,L6_2_14:30_SI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_15:30_DFI,Domingo y Festivos Invierno,L6_2_15:30_DFI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_15:30_LI,Laborable Invierno,L6_2_15:30_LI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_15:30_LxI,Laborable Invierno miercoles,L6_2_15:30_LxI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_15:30_SI,Sabado Invierno,L6_2_15:30_SI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_16:30_DFI,Domingo y Festivos Invierno,L6_2_16:30_DFI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_16:30_LI,Laborable Invierno,L6_2_16:30_LI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_16:30_LxI,Laborable Invierno miercoles,L6_2_16:30_LxI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_16:30_SI,Sabado Invierno,L6_2_16:30_SI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_17:30_DFI,Domingo y Festivos Invierno,L6_2_17:30_DFI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_17:30_LI,Laborable Invierno,L6_2_17:30_LI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_17:30_LxI,Laborable Invierno miercoles,L6_2_17:30_LxI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_17:30_SI,Sabado Invierno,L6_2_17:30_SI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_18:30_DFI,Domingo y Festivos Invierno,L6_2_18:30_DFI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_18:30_LI,Laborable Invierno,L6_2_18:30_LI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_18:30_LxI,Laborable Invierno miercoles,L6_2_18:30_LxI,RENFE CENTRAL,1,ro-9caff0cc
+6,L6_2_18:30_SI,Sabado Invierno,L6_2_18:30_SI,RENFE CENTRAL,1,ro-9caff0cc
+1,RF_01_L1_1_18:59_LI,UNDEFINED_2026-05-18,RF_01_L1_1_18:59_LI,MIRAFLORES,0,ro-10d2bd23
+1,RF_01_L1_3_19:58_LI,UNDEFINED_2026-05-18,RF_01_L1_3_19:58_LI,FERIAL,1,ro-75d1111b
+2,RF_01_L2_1_19:27_LI,UNDEFINED_2026-05-18,RF_01_L2_1_19:27_LI,CIRCULAR VERDE,0,ro-47d7f5da
+3,RF_01_L3_1_08:45_LI,UNDEFINED_2026-05-18,RF_01_L3_1_08:45_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,RF_01_L3_1_17:15_LI,UNDEFINED_2026-05-18,RF_01_L3_1_17:15_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,RF_01_L3_1_18:45_LI,UNDEFINED_2026-05-18,RF_01_L3_1_18:45_LI,CIRCULAR ROJA,0,ro-d8262e37
+3,RF_01_L3_1_20:15_LI,UNDEFINED_2026-05-18,RF_01_L3_1_20:15_LI,CIRCULAR ROJA,0,ro-d8262e37

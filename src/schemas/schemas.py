@@ -4,7 +4,7 @@ This module defines request payloads and response models for flares
 linguistic predictions.
 """
 
-from typing import Optional, List
+from typing import List, Literal
 from pydantic import BaseModel, Field, ConfigDict
 
 
@@ -19,6 +19,25 @@ class Tag(BaseModel):
     Tag_End: int
     Label_5W1H: str = Field(..., alias="5W1H_Label")
     Tag_Text: str
+
+
+class WHMetricTag(BaseModel):
+    model_config = ConfigDict(populate_by_name=True)
+    Tag_Start: int
+    Tag_End: int
+    Label_5W1H: Literal[
+        "WHO",
+        "WHAT",
+        "WHEN",
+        "WHERE",
+        "WHY",
+        "HOW",
+    ] = Field(..., alias="5W1H_Label")
+    Tag_Text: str
+
+
+class WHMetricSample(TextRequest):
+    Tags: List[WHMetricTag]
 
 
 class ReliabilitySample(BaseModel):
@@ -41,3 +60,6 @@ class ReliabilityPrediction(BaseModel):
     Tag_End: int
     Reliability_Label: str
 
+
+class ReliabilityMetricSample(ReliabilitySample):
+    Reliability_Label: Literal["confiable", "semiconfiable", "no confiable"]

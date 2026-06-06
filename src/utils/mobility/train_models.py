@@ -4,12 +4,10 @@ import json
 import joblib
 import os
 import argparse
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.metrics import mean_absolute_error, mean_squared_error,r2_score
 from catboost import CatBoostRegressor
 from sklearn.ensemble import RandomForestRegressor
-from lightgbm import LGBMRegressor
+from lightgbm import LGBMRegressor, early_stopping, log_evaluation
 from sklearn.model_selection import GroupShuffleSplit
 
 
@@ -20,6 +18,8 @@ DEFAULT_NUMERIC_COLUMNS = ['scheduled_travel_time','shape_distance', 'is_peak', 
 
 TARGET_OPTIONS=["actual_travel_time","delay","previous_delay"]
 DEFAULT_TARGET = "actual_travel_time"
+
+
 # =========================
 # Parse arguments
 # =========================
@@ -33,13 +33,21 @@ def parse_args():
     parser.add_argument("--target", default=DEFAULT_TARGET, type=str, choices=TARGET_OPTIONS)
     parser.add_argument("--test-size", type=float, default=0.2)
     parser.add_argument("--random-state", type=int, default=42)
-    parser.add_argument("--lightgbm-n-estimators", type=int, default=50)
-    parser.add_argument("--lightgbm-learning-rate", type=float, default=0.05)
-    parser.add_argument("--rf-n-estimators", type=int, default=50)
-    parser.add_argument("--rf-max-depth", type=int, default=10)
-    parser.add_argument("--ct-max-depth", type=int, default=4)
-    parser.add_argument("--ct-max-iter", type=int, default=500)
-    parser.add_argument("--ct-learning-rate", type=float, default=0.05)
+    parser.add_argument("--lightgbm-n-estimators", type=int, default=2000)
+    parser.add_argument("--lightgbm-learning-rate", type=float, default=0.03)
+    parser.add_argument("--lightgbm-num-leaves", type=int, default=31)
+    parser.add_argument("--lightgbm-min-child-samples", type=int, default=50)
+    parser.add_argument("--lightgbm-subsample", type=float, default=0.85)
+    parser.add_argument("--lightgbm-colsample-bytree", type=float, default=0.85)
+    parser.add_argument("--rf-n-estimators", type=int, default=700)
+    parser.add_argument("--rf-max-depth", type=int, default=None)
+    parser.add_argument("--rf-min-samples-leaf", type=int, default=5)
+    parser.add_argument("--rf-max-features", type=parse_max_features, default=0.8)
+    parser.add_argument("--ct-max-depth", type=int, default=6)
+    parser.add_argument("--ct-max-iter", type=int, default=2500)
+    parser.add_argument("--ct-learning-rate", type=float, default=0.03)
+    parser.add_argument("--ct-l2-leaf-reg", type=float, default=6.0)
+    parser.add_argument("--early-stopping-rounds", type=int, default=100)
     return parser.parse_args()
 
 def encode_stop_series(series, mapping):
@@ -56,8 +64,8 @@ def evaluate(model, X, y, name=""):
     mae = mean_absolute_error(y, preds)
     rmse = np.sqrt(mean_squared_error(y, preds))
     r2 = r2_score(y, preds)
-    print(f"{name} -> MAE: {mae:.4f} | RMSE: {rmse:.4f} | R² :{r2}")
-    return mae, rmse
+    print(f"{name} -> MAE: {mae:.4f} | RMSE: {rmse:.4f} | R²: {r2:.4f}")
+    return mae, rmse, r2
 
 def clean_outliers(df,column):
     Q1 = df[column].quantile(0.25)
@@ -109,8 +117,8 @@ def main():
         gss.split(df, groups=df["journey_id"])
     )
 
-    train_df = df.iloc[train_idx]
-    val_df = df.iloc[test_idx]
+    train_df = df.iloc[train_idx].copy()
+    val_df = df.iloc[test_idx].copy()
 
 
     # === 4. Preprocessing (fit on train only) ===
@@ -149,30 +157,49 @@ def main():
 
     X_val = val_df[features]
     y_val = val_df[target]
+    cat_feature_indices = [
+        X_train.columns.get_loc(col)
+        for col in categorical_cols
+        if col in X_train.columns
+    ]
 
     # === 6. Models ===
     models = {
         "lightgbm": LGBMRegressor(
             n_estimators=args.lightgbm_n_estimators,
             learning_rate=args.lightgbm_learning_rate,
+            num_leaves=args.lightgbm_num_leaves,
+            min_child_samples=args.lightgbm_min_child_samples,
+            subsample=args.lightgbm_subsample,
+            subsample_freq=1,
+            colsample_bytree=args.lightgbm_colsample_bytree,
+            reg_alpha=0.1,
+            reg_lambda=1.0,
             max_depth=-1,
             random_state=args.random_state,
-            objective="regression_l1"
+            objective="regression",
+            metric="rmse",
+            n_jobs=-1,
+            verbosity=-1
         ),
         "randomforest": RandomForestRegressor(
             n_estimators=args.rf_n_estimators,
             max_depth=args.rf_max_depth,
+            min_samples_leaf=args.rf_min_samples_leaf,
+            max_features=args.rf_max_features,
             n_jobs=-1,
-            criterion="absolute_error",
+            criterion="squared_error",
             random_state=args.random_state
         ),
         "catboost": CatBoostRegressor(
-            iterations=3000,
+            iterations=args.ct_max_iter,
             learning_rate=args.ct_learning_rate,
             depth=args.ct_max_depth,
-            loss_function="MAE",
-            eval_metric="MAE",
+            l2_leaf_reg=args.ct_l2_leaf_reg,
+            loss_function="RMSE",
+            eval_metric="R2",
             random_seed=args.random_state,
+            allow_writing_files=False,
             verbose=False
         )
     }
@@ -181,11 +208,34 @@ def main():
     results = {}
     for name, model in models.items():
         print(f"\nTraining {name}...")
-        model.fit(X_train, y_train)
+        if name == "lightgbm":
+            model.fit(
+                X_train,
+                y_train,
+                eval_set=[(X_val, y_val)],
+                eval_metric="rmse",
+                categorical_feature=categorical_cols,
+                callbacks=[
+                    early_stopping(args.early_stopping_rounds, verbose=False),
+                    log_evaluation(period=0),
+                ],
+            )
+        elif name == "catboost":
+            model.fit(
+                X_train,
+                y_train,
+                eval_set=(X_val, y_val),
+                cat_features=cat_feature_indices,
+                early_stopping_rounds=args.early_stopping_rounds,
+                use_best_model=True,
+                verbose=False,
+            )
+        else:
+            model.fit(X_train, y_train)
         print("Validation performance:")
-        mae, rmse = evaluate(model, X_val, y_val, name)
+        mae, rmse, r2 = evaluate(model, X_val, y_val, name)
         joblib.dump(model, os.path.join(args.output_dir, f"{name}_{args.target}_model.pkl"))
-        results[name] = {"mae": mae, "rmse": rmse}
+        results[name] = {"mae": mae, "rmse": rmse, "r2": r2}
 
     # === 8. Test evaluation ===
     # Apply same preprocessing (categoricals)

@@ -20,6 +20,20 @@ TARGET_OPTIONS=["actual_travel_time","delay","previous_delay"]
 DEFAULT_TARGET = "actual_travel_time"
 
 
+def parse_max_features(value):
+    if value in {"sqrt", "log2"}:
+        return value
+    try:
+        parsed = float(value)
+    except ValueError as exc:
+        raise argparse.ArgumentTypeError(
+            "--rf-max-features must be a float, 'sqrt', or 'log2'"
+        ) from exc
+    if parsed <= 0:
+        raise argparse.ArgumentTypeError("--rf-max-features must be greater than 0")
+    return parsed
+
+
 # =========================
 # Parse arguments
 # =========================

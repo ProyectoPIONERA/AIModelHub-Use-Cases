@@ -220,3 +220,4 @@ data/mobility-datasets/GTFS_RT/*
 data.ipynb
 .aider*
 models/*
+examples/*
